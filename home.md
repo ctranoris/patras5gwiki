@@ -1,4 +1,4 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Welcome to Patras 5G Wiki -->
 
 # Patras 5G wiki
