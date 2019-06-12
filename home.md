@@ -34,10 +34,10 @@ The Patras 5G testbed will focus on the validation of a series of KPIs, related 
 
 The set of use cases which will challenge the 5G-VINNI KPIs and will be targeted by the test plans are as follows:
 
-*     Information society on the road (eMBB)
-*     Collaborative gaming AR/VR (URLLC and eMBB)
-*     Ultra-high fidelity media AR/VR (URLLS and eMBB)
-*     Intelligent navigation (URLLC and eMBB)
+* Information society on the road (eMBB)
+* Collaborative gaming AR/VR (URLLC and eMBB)
+* Ultra-high fidelity media AR/VR (URLLS and eMBB)
+* Intelligent navigation (URLLC and eMBB)
 
 
 ##  Architecture and Components of the Facility Site 
