@@ -9,25 +9,25 @@ The 5G-VINNI facility in Greece will be part of the Patras Platform for Experime
 
 In Greece facility site the following tasks will be performed:
 
-*     Providing 5G standard-conformant components and Core Network infrastructure as extension of the FhG Open5GCore toolkit
-*     Provide ICOM’s mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
-*     Integration of FhG Open5GCore with Limemicro SDR platform and the SRS UE and g/eNB
-*     Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This will further include the slicing of the IoT devices at the edge of the network.
-*     Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
+* Providing 5G standard-conformant components and Core Network infrastructure as extension of the FhG Open5GCore toolkit
+* Provide ICOM’s mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
+* Integration of FhG Open5GCore with Limemicro SDR platform and the SRS UE and g/eNB
+* Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This will further include the slicing of the IoT devices at the edge of the network.
+* Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
 
  Summary of capabilities
 
-*     Service Orchestration (via OSM NBI services)
-*     NFV MANO (OSM) and NFVI (OpenStack)+DPDK
-*     Slicing (Orchestration via OSM extensions, use of dedicated CN instances)
-*     5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz
-*     5G Core (FhG Open5GCore)
-*     SDN (ODL)
-*     NB-IoT, LTE-M (FhG NB-IOT core)
-*     UEs based on Limemicro’s SDR and SRS software
-*     mmWave backhaul (Intracom)
-*     MEC support
-*     GEANT connectivity
+* Service Orchestration (via OSM NBI services)
+* NFV MANO (OSM) and NFVI (OpenStack)+DPDK
+* Slicing (Orchestration via OSM extensions, use of dedicated CN instances)
+* 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz
+* 5G Core (FhG Open5GCore)
+* SDN (ODL)
+* NB-IoT, LTE-M (FhG NB-IOT core)
+* UEs based on Limemicro’s SDR and SRS software
+* mmWave backhaul (Intracom)
+* MEC support
+* GEANT connectivity
 
 ## KPIs and Use Cases 
 The Patras 5G testbed will focus on the validation of a series of KPIs, related to developed/deployed features and the selected use cases. On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
