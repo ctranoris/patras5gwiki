@@ -42,6 +42,9 @@ The set of use cases which will challenge the 5G-VINNI KPIs and will be targeted
 
 ##  Architecture and Components of the Facility Site 
 
+![greeksitearch](/uploads/images/greece-site.png "greeksitearch")
+
+
 ### Access Network, MEC devices and UE
 
 In Patras/Greece facility there will be 3 Outdoor base stations together with MEC devices at the Patras campus and at the City of Patras placed at properly selected places to facilitate the execution of test plans together with around 6 UEs. UoP together with ICOM will implement and integrate any standardized APIs and services to provide MEC functionality, including the virtualization of edge IoT devices, i.e., IoT Slicing, as a VIM component.
