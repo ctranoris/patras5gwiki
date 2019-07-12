@@ -34,7 +34,7 @@ Please refer to Annex H.1 on how the OSM framework allows the definition of an i
 
 
 ## Supported Network Slice Service Specification approaches
-This section will focus on CSP and CSC roles. The CSP role will be taken by both Spain and Patras facility sites. The VINNI-SBs offered by Patras/Greek CSP in their service catalogues will be based on the structure shown in first Figure. For network slice service specification, the CSC selects the corresponding VINNI-SB (e.g. eMBB/uRLLC/mIoT/customised VINNI-SB) and fills it according to its particular service order requirements, resulting in a Service Order. Stored by the CSP, this Service Order provides a self-contained specification of the network slice service instance for that CSC.  
+This section will focus on CSP and CSC roles. The CSP role will be taken by Patras facility site. The VINNI-SBs offered by Patras/Greek CSP in their service catalogues will be based on the structure shown in first Figure. For network slice service specification, the CSC selects the corresponding VINNI-SB (e.g. eMBB/uRLLC/mIoT/customised VINNI-SB) and fills it according to its particular service order requirements, resulting in a Service Order. Stored by the CSP, this Service Order provides a self-contained specification of the network slice service instance for that CSC.  
 Once a CSC specifies the service as desired and clicks the “Submit service order”, a new VINNI- Service Order Request is created out of the VINNI-SB. Stored by the CSP, this request provides a self-contained specification of the network slice service ordered by that CSC.
 
 ## Provisioning of network slice instances
@@ -71,7 +71,6 @@ c)	Iss-shared-nss information element: from the IM of the required NST (see Anne
 3.	Thirdly, for each virtual link providing inter-NSSI connectivity, the corresponding virtual link instance is created. For the deployment of this virtual link, the following information is considered:
 a)	Instantiation parameters: from the tuple {NST, instantiation parameters} derived in the preparation phase. The NOP extracts from these parameters the requirements that are relevant for the virtual link to be instantiated. 
 b)	VLD information element: from the IM of the required NST (see Annex A). This information element points to the VLD that will be used for deploying the NFV-NS instance. This instance can be deployed in various forms (e.g. with different QoS parameters) considering the above instantiation parameters, by using the mechanisms that VLD has for that end (e.g. flavoring). 
-
 
 
 With the abovementioned steps, the NSI is already created, although not configured. 
