@@ -46,9 +46,13 @@ Read more:
 [Architecture and Components of the Patras/Greece Facility Site](architecture-and-components-)
 
 
+## Service Catalogue and LCM of Network Slice Services
+
+[Service Catalogue](service-catalogue)
+[Support and LCM of Network Slice Services](support-and-lcm)
 
 
-## Points of Interest that could be enabled with 5G and IoT coverage for supporting verticals.
+## The Patras5G area.
 
 In Patras/Greece facility there will be Outdoor base stations to provide 5G and IoT coverage at locations of interest (where ICT19 vertical pilots will be enabled) both in the Patras campus and in the wider areas (see following two figures).
 
