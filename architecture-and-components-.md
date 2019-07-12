@@ -14,16 +14,6 @@ Currently, the Patras/Greece facility is equipped with a cloud platform offered 
 On top of our cloud hardware, a rich set of state-of-the-art SW tools is already available, which comprises our platform for experimentation called Cloudville. These include OpenStack as the cloud operating system, while OSM (but also OpenBaton via FhG) will be available to allow NSD/VNF deployments.  Prometheus alongside with Grafana are installed for monitoring purposes. At the same time, Elastic search and Kibana are installed and being used to collect and visualize data extracted from IoT devices and sensors.
 
 
-### Service Catalogue
-
-Patras/Greece facility will use a common solution based on Open Source MANO (OSM) as well as an adaptation of an experimentation portal by the H2020 project 5GinFIRE.
-
-The Service Catalogue is a feature that will be exposed by the facility site portal and will contain various service offerings of the facility site. These service offerings will be delivered under the Network Slice as a Service (NSaaS) model. This model relies on the deployment of NSIs and their delivery towards 5G-VINNI customers, allowing them to build on top their own services and carry out experimentation activities on them. 
-
-Read more:
-[Service Catalogue](service-catalogue)
-
-
 
 ### Access Network, MEC devices and UE
 
