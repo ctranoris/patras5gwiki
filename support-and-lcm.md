@@ -75,25 +75,25 @@ b)	VLD information element: from the IM of the required NST (see Annex A). This 
 
 
 With the abovementioned steps, the NSI is already created, although not configured. 
-To start the configuration process, day-1 operations are required at the NSI components. Typical day-1 operations include model-driven interaction with (Virtual/Physical/Hybrid)NFs through the use of Juju charms, which allow NEPs to encapsulate their configuration mechanisms (e.g. YANG/NETCONF, Ansible, SSH+scripts). For (V/P/H)NF application layer configuration, two different kinds of Juju charms can be used: native charms and proxy charms. A brief comparison of these two Juju charms is shown in next table. 
-Table 4 1 Native charm vs proxy charm
-Type of Juju charm	Native Charm	Proxy charm
-Scope	Juju charm used for those NFs that are able to run charms inside, e.g. cloud-like VNFs.	Juju charm used for those NFs that do not support running charms inside, e.g. PNFs
-Interaction	NF interaction happens directly from the orchestrator 	Proxy charm uses the appropriate configuration protocol to interact with the NF and run the desired actions from the primitive 
+To start the configuration process, day-1 operations are required at the NSI components. Typical day-1 operations include model-driven interaction with (Virtual/Physical/Hybrid)NFs through the use of Juju charms, which allow NEPs to encapsulate their configuration mechanisms (e.g. YANG/NETCONF, Ansible, SSH+scripts). For (V/P/H)NF application layer configuration, two different kinds of Juju charms can be used: native charms and proxy charms. A brief comparison of these two Juju charms:. 
+
+**Native charm vs proxy charm**
+Native: Juju charm used for those NFs that are able to run charms inside, e.g. cloud-like VNFs.	 NF interaction happens directly from the orchestrator
+Proxy: Juju charm used for those NFs that do not support running charms inside, e.g. PNFs. Proxy charm uses the appropriate configuration protocol to interact with the NF and run the desired actions from the primitive 
 
 
 ### Operation phase
 
 Once the NSI has been successfully commissioned, the NSI becomes a relevant object for further operation actions. Unlike 3GPP view, operation phase in OSM includes deactivation/activation (e.g. pausing/resuming) as part of the set of modification operations that can be triggered at run-time, depending on the outcomes resulting from the supervision and reporting activities carried out over the NSI throughout its lifetime. 
 Examples of basic supervising and reporting activities that the NOP can conduct over the NSI are allowed through the following operations, all exposed in the network slice lifecycle management interface:
-•	nsi-list: list of all operative NSIs
-•	nsi-op-list: show the history of operations that has been triggered over the NSI since its creation.
-•	nsi-op-list: shows the information of the operation over a NSI
-•	nsi-show: shows the record of the NSI
-Other more sophisticated activities can be performed, assisted by the MON module, or by the Bugzilla(see 6.2). 
+* nsi-list: list of all operative NSIs
+* nsi-op-list: show the history of operations that has been triggered over the NSI since its creation.
+* nsi-op-list: shows the information of the operation over a NSI
+* nsi-show: shows the record of the NSI
+Other more sophisticated activities can be performed, assisted by the MON module, or by the Bugzilla
 Depending on the information received from these supervision and reporting activities, the running NSI might need to be modified, in order to keep it in the desired state. For this end, the NOP can trigger a wide variety of day-2 operations over that NSI. These API-driven operations are quite aligned with the specificities indicated by the CSC in the VINNI-SD, and can fall into one of these categories: 
-•	Operations at the virtualized resource level: includes operations that has a direct impact on the virtualized resources supporting the NSI. Examples of these operations include scaling operations (e.g. subjected to upper and lower thresholds), creation and deletion of performance measurement jobs, subscribe and notify operations for performance metrics and fault alarms, instantiation and termination of testing components to complete test campaigns, etc. Depending on the service exposure level selected by CSC (see Figure 4.1), these operations can be performed at different abstraction levels, e.g. ranging from NSI level to VNF instance levels.  For more details on these operations, see Section 6.2. 
-•	Operations at the application level: includes operations that are relevant only for the specific functionality that the NSI offers. Examples of these operations include the addition, modification and deletion of new subscribers, changes in security parameters, changes in routing across the service chain, etc. Those actions need to be enumerated and codified in the constituent NFV-NS Packages the NST refers to and are exposed by the API as primary actions available in that given NSI.
+* Operations at the virtualized resource level: includes operations that has a direct impact on the virtualized resources supporting the NSI. Examples of these operations include scaling operations (e.g. subjected to upper and lower thresholds), creation and deletion of performance measurement jobs, subscribe and notify operations for performance metrics and fault alarms, instantiation and termination of testing components to complete test campaigns, etc. Depending on the service exposure level selected by CSC , these operations can be performed at different abstraction levels, e.g. ranging from NSI level to VNF instance levels. 
+* Operations at the application level: includes operations that are relevant only for the specific functionality that the NSI offers. Examples of these operations include the addition, modification and deletion of new subscribers, changes in security parameters, changes in routing across the service chain, etc. Those actions need to be enumerated and codified in the constituent NFV-NS Packages the NST refers to and are exposed by the API as primary actions available in that given NSI.
 
 ### Decommissioning phase
 As any other (on-demand) instance of a manageable entity, it is possible to decommission an NSI. This decommissioning means removing all the dedicated components and releasing their underlying resources, but not the shared and dependent components. For those components, they need to be re-configured and their resources should be adjusted accordingly. To illustrate this scenario, consider the case where a NSSI from the NSI that needs to be decommissioned was deployed using a running NFV-NS instance (e.g. a NFV-NS instance also serving other NSSI from another NSI). In such a case, where the NSSI from the NSI to be decommissioned is removed, the NFV-NS instance cannot be removed. Otherwise, the other running NSSI will be affected. To avoid this, when removing the required NSSI, the NFV-NS instance will be re-configured (e.g. disassociated from the removed NSSI) and scale-in accordingly.  
