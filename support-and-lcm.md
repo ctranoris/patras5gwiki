@@ -26,36 +26,43 @@ Once deployed and operative, NSIs can be delivered to corresponding OSM clients 
 
 ## Supported Network Slice Service Modelling approaches
 OSM release FIVE will allow NOP to deploy and operate NSIs and make them available to the CSP. The CSP will be in charge of delivering these NSIs to the CSCs following the NSaaS (see Deliverable D3.1) model. This service delivery model can be described as a particularization of the NSaaS model, but more focused on the enablement of 5G use cases. The evolution from NSaaS (up to OSM release FOUR) to NSaaS (from OSM release FIVE onwards) requires the definition of a single unified framework where the views on network slicing from both 3GPP and ETSI NFV can coexist. 
-•	On one hand, 3GPP deals with the network slicing concept from a functional viewpoint, focusing on NSI application layer management. Examples of issues addressed under this vision are the study of what specific RAN/CN functions make up an NSI at both UP and CP, how these functions communicate with each other via normative (service-based) interfaces, and the implications their sharing brings in terms of isolation and customization. 
-•	On the other hand, ETSI NFV studies network slicing from a deployment viewpoint, focusing on NSI virtualized resource management. This vision study how the flexible allocation of VNFs and their dynamic composition into NFV-NSs can support the resource requirements of an NSI.     
-As seen from the above description, these views are complementary and need to interact with each other. Indeed, slicing without 3GPP vision is simply an application-agnostic NFV deployment, without any notions on the semantics that allow NFV-NSs to behave as desired. Conversely, slicing without NFV vision does not enable flexibility and agility in network slicing run-time operation, or dynamic provision of resources where and when required. To align these views, OSM release FIVE has proposed the unified conceptual framework shown in Figure 6.14, highly inspired by the ETSI NFV-EVE 012 [EVE012] proposal (Figure 4.4). The resulting framework allows the NOP to cope with the network slice concept and define a consistent information model that can be used for the design and instantiation of network slices. 
+* On one hand, 3GPP deals with the network slicing concept from a functional viewpoint, focusing on NSI application layer management. Examples of issues addressed under this vision are the study of what specific RAN/CN functions make up an NSI at both UP and CP, how these functions communicate with each other via normative (service-based) interfaces, and the implications their sharing brings in terms of isolation and customization. 
+* On the other hand, ETSI NFV studies network slicing from a deployment viewpoint, focusing on NSI virtualized resource management. This vision study how the flexible allocation of VNFs and their dynamic composition into NFV-NSs can support the resource requirements of an NSI.     
+
+As seen from the above description, these views are complementary and need to interact with each other. Indeed, slicing without 3GPP vision is simply an application-agnostic NFV deployment, without any notions on the semantics that allow NFV-NSs to behave as desired. Conversely, slicing without NFV vision does not enable flexibility and agility in network slicing run-time operation, or dynamic provision of resources where and when required. To align these views, OSM release FIVE has proposed the unified conceptual framework shown in Figure 6.14, highly inspired by the ETSI NFV-EVE 012 [EVE012] proposal. The resulting framework allows the NOP to cope with the network slice concept and define a consistent information model that can be used for the design and instantiation of network slices. 
 Please refer to Annex H.1 on how the OSM framework allows the definition of an information model for network slicing in 5G
+
+
 ## Supported Network Slice Service Specification approaches
-This section will focus on CSP and CSC roles. The CSP role will be taken by both Spain and Patras facility sites. The VINNI-SBs offered by Spanish and Greek CSPs in their service catalogues will be based on the structure shown in Figure 4.1. For network slice service specification, the CSC selects the corresponding VINNI-SB (e.g. eMBB/uRLLC/mIoT/customised VINNI-SB) and fills it according to its particular service order requirements, resulting in a Service Order. Stored by the CSP, this Service Order provides a self-contained specification of the network slice service instance for that CSC.  
+This section will focus on CSP and CSC roles. The CSP role will be taken by both Spain and Patras facility sites. The VINNI-SBs offered by Patras/Greek CSP in their service catalogues will be based on the structure shown in first Figure. For network slice service specification, the CSC selects the corresponding VINNI-SB (e.g. eMBB/uRLLC/mIoT/customised VINNI-SB) and fills it according to its particular service order requirements, resulting in a Service Order. Stored by the CSP, this Service Order provides a self-contained specification of the network slice service instance for that CSC.  
 Once a CSC specifies the service as desired and clicks the “Submit service order”, a new VINNI- Service Order Request is created out of the VINNI-SB. Stored by the CSP, this request provides a self-contained specification of the network slice service ordered by that CSC.
+
 ## Provisioning of network slice instances
-The provisioning of NSIs can be described throughout their lifecycle. The lifecycle management process network slicing is originally presented in 3GPP TS 28.530 [3GPP28.530], and extensively discussed in D1.3 [D1.3]. 
-The lifecycle management of NSIs carried out by Spanish and Greeek NOPs is compliant with this 3GPP view, thanks to the conceptual outline the OSM information model is based on (see Figure 6.14). In the next subsections, each phase will be discussed individually. 
+The provisioning of NSIs can be described throughout their lifecycle. The lifecycle management process network slicing is originally presented in 3GPP TS 28.530 [3GPP28.530].
+The lifecycle management of NSIs carried out by Greeek NOP is compliant with this 3GPP view, thanks to the conceptual outline the OSM information model. In the next subsections, each phase will be discussed individually. 
+
+
 ### 	Preparation phase
 This phase begins when CSP receives a service order from the CSC. At that moment, a VINNI-SD is created out of VINNI-SB and stored in OSM repository. Then, CSP checks if that VINNI-SD is feasible (e.g. check if all the mandatory parameters have been specified, if there is enough capacity, etc.), and if so, sends corresponding network slice requirements to NOP. With these requirements, the NOP carries out a set of operations arranged into sub-phases: NST design and NST on-boarding. 
 For the first sub-phase, the NOP takes the received requirements and translates them into the following tuple: {required NST, instantiation parameters}, so NOP can deploy the NSI when and where required. For the preparation phase, only the first field of this tuple is relevant. The required NST shall follow the information model introduced at the beginning of Section 4 and shown in Annex A. This NST can already exist (pre-defined NST, designed beforehand) or not (NST created on demand) in the service catalogue. To handle these two scenarios, two operations are made available to NOP through NST management interface (Section 3):
-•	nst-create: allows designing an NST from scratch. This operation is triggered by the NOP when there is no pre-defined NST that can be reused for the definition of the required NST. 
-•	nst-update: allows modifying some fields from a given NST. This operation is triggered when the required NST can be obtained by updating some of the content of an already existing NST. 
+* nst-create: allows designing an NST from scratch. This operation is triggered by the NOP when there is no pre-defined NST that can be reused for the definition of the required NST. 
+* nst-update: allows modifying some fields from a given NST. This operation is triggered when the required NST can be obtained by updating some of the content of an already existing NST. 
 Either of the abovementioned options allows NOP to have the required NST designed, and thus the first sub-phase completed. From that moment onwards, the NST is on-boarding can get started. 
 In this second sub-phase, the NOP aims at injecting the required NST into the service catalogue. This process not only consists in on-boarding the NST itself, but also the NFV-NS and VNF Packages referred by the NST (see information model in Annex A). OSM’s NBI offers APIs that support CRUD (Create, Read, Updated, Delete) operations to handle these NFV-NS and VNF packages (and their contained NSDs and VNFDs). In these operations, the necessity checks to validate in-model and cross-model consistency are performed. These API calls are implemented over the NFV-NS/VNF Package management interfaces and the NSD/VNFD management interfaces described in Section 3. 
 Once the on-boarding process finishes, the NST is stored in the service catalogue, so it can be used for NSI creation later on. At this moment, the NOP can invoke two operations from NST management interface (section 3): 
-•	nst-list: allows listing NSTs available in the service catalogue.
-•	nst-show: allows showing the content of a given NST. 
-An example of the invocation of the nst-list operation is shown in Figure 4.6. For sake of clarity, the operation has been invoked using the UI. 
- 
-Figure 4.6: List of NSTs on-boarded to the OSM catalogue
+* nst-list: allows listing NSTs available in the service catalogue.
+* nst-show: allows showing the content of a given NST. 
+
 When the NOP finishes invoke either of the two operations, the preparation phase gets finished.
+
 ### 	Commissioning phase
+
 Once the NST and corresponding NS/VNF Packages have successfully been on-boarded in the service catalogue, they can be used as deployment templates for the actual NSI deployment. Alike the preparation phase, the commissioning of the NSI from the NST is a phase that can be split into two sub-phases: network slice instantiation and NSI configuration.
-Network slice instantiation consists of the day-0 operations that allows creating an NSI where all the components are instantiated. These operations are defined at all the abstraction levels, ranging from VDU level (e.g. VNF component) to network slice level, and are invoked using the VNF, NFV-NS and network slice lifecycle management interfaces described in Section 3. To trigger the instantiation of a network slice, the NOP will consume the nsi-create operation from the network slice lifecycle management interface. An example of how this operation looks like is shown in Figure 4.7.
- 
-Figure 4.7: Instantiation of a network slice
+Network slice instantiation consists of the day-0 operations that allows creating an NSI where all the components are instantiated. These operations are defined at all the abstraction levels, ranging from VDU level (e.g. VNF component) to network slice level, and are invoked using the VNF, NFV-NS and network slice lifecycle management interfaces described in Section 3. To trigger the instantiation of a network slice, the NOP will consume the nsi-create operation from the network slice lifecycle management interface. 
+
 For nsi-create operation, the two fields of the tuple {required NST, instantiation parameters} that was derived in the preparation phase is now needed. A brief overview of the steps that OSM takes when this operation is invoked is shown below: 
+
+
 1.	First, the NOP analyses the content of the NST and decompose it into its constituents: network slice subnets and virtual links connecting them. 
 2.	Secondly, for each network slice subnet, the corresponding NSSI is created. This NSSI is an NFV-NS instance. For the deployment of this NFV-NS instance, the following information is considered:
 a)	Instantiation parameters: from the tuple {NST, instantiation parameters} derived in the preparation phase. The NOP extracts from these parameters the requirements that are relevant for the network slice subnet to be instantiated. 
@@ -64,6 +71,9 @@ c)	Iss-shared-nss information element: from the IM of the required NST (see Anne
 3.	Thirdly, for each virtual link providing inter-NSSI connectivity, the corresponding virtual link instance is created. For the deployment of this virtual link, the following information is considered:
 a)	Instantiation parameters: from the tuple {NST, instantiation parameters} derived in the preparation phase. The NOP extracts from these parameters the requirements that are relevant for the virtual link to be instantiated. 
 b)	VLD information element: from the IM of the required NST (see Annex A). This information element points to the VLD that will be used for deploying the NFV-NS instance. This instance can be deployed in various forms (e.g. with different QoS parameters) considering the above instantiation parameters, by using the mechanisms that VLD has for that end (e.g. flavoring). 
+
+
+
 With the abovementioned steps, the NSI is already created, although not configured. 
 To start the configuration process, day-1 operations are required at the NSI components. Typical day-1 operations include model-driven interaction with (Virtual/Physical/Hybrid)NFs through the use of Juju charms, which allow NEPs to encapsulate their configuration mechanisms (e.g. YANG/NETCONF, Ansible, SSH+scripts). For (V/P/H)NF application layer configuration, two different kinds of Juju charms can be used: native charms and proxy charms. A brief comparison of these two Juju charms is shown in next table. 
 Table 4 1 Native charm vs proxy charm
