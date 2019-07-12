@@ -44,3 +44,6 @@ The Patras/Greece facility will provide support for Mobile/Multi-access Edge Com
 (i) IoT Slicing: A Virtualized Infrastructure Management (VIM) (sub-)component will be designed, implemented and integrated within the overall MANO architecture, to enable the virtualization of the available edge IoT resources (sensors/actuators) for access within individual network slices.
 
 (ii) Mobile streaming applications support: The facility will support MANO mechanisms for the realization of high throughput, low latency, mobile types of applications (e.g., gaming, AR/VR) and corresponding test cases. Such mechanisms will include DNS and traffic flow management (on Mp1 ETSI MEC interface) for baseline service orchestration, as well as mobility support mechanisms i.e., mobility management events such as application context transfer, user redirection network/application level), and a subset of the Location Service (ETSI GS MEC 013) for triggering mobility management events.
+
+
+
