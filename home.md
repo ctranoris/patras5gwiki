@@ -45,6 +45,24 @@ The set of use cases which will challenge the 5G-VINNI KPIs and will be targeted
 ![greeksitearch](/uploads/images/greece-site.png "greeksitearch")
 
 
+### Cloud/MANO services
+
+Currently, the Patras/Greece facility is equipped with a cloud platform offered by the University of Patras, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 212 CPUs and 768 Gigabytes of RAM and 30 TB of storage. Two servers with 4x10GbE NICs DPDK enabled will be also available.
+
+On top of our cloud hardware, a rich set of state-of-the-art SW tools is already available, which comprises our platform for experimentation called Cloudville. These include OpenStack as the cloud operating system, while OSM (but also OpenBaton via FhG) will be available to allow NSD/VNF deployments.  Prometheus alongside with Grafana are installed for monitoring purposes. At the same time, Elastic search and Kibana are installed and being used to collect and visualize data extracted from IoT devices and sensors.
+
+
+### Service Catalogue
+
+Patras/Greece facility will use a common solution based on Open Source MANO (OSM) as well as an adaptation of an experimentation portal by the H2020 project 5GinFIRE.
+
+The Service Catalogue is a feature that will be exposed by the facility site portal and will contain various service offerings of the facility site. These service offerings will be delivered under the Network Slice as a Service (NSaaS) model. This model relies on the deployment of NSIs and their delivery towards 5G-VINNI customers, allowing them to build on top their own services and carry out experimentation activities on them. 
+
+Read more:
+[Service Catalogue](service-catalogue)
+
+
+
 ### Access Network, MEC devices and UE
 
 In Patras/Greece facility there will be 3 Outdoor base stations together with MEC devices at the Patras campus and at the City of Patras placed at properly selected places to facilitate the execution of test plans together with around 6 UEs. UoP together with ICOM will implement and integrate any standardized APIs and services to provide MEC functionality, including the virtualization of edge IoT devices, i.e., IoT Slicing, as a VIM component.
@@ -61,11 +79,7 @@ Further, ICOM’s FWA solutions will be used to provide broadband access to publ
 
 Within the project ICOM will add support for SDN-based network slicing to the wireless backhaul and FWA network segments..
 
-### Cloud/MANO services
-
-Currently, the Patras/Greece facility is equipped with a cloud platform offered by the University of Patras, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 212 CPUs and 768 Gigabytes of RAM and 30 TB of storage. Two servers with 4x10GbE NICs DPDK enabled will be also available.
-
-On top of our cloud hardware, a rich set of state-of-the-art SW tools is already available, which comprises our platform for experimentation called Cloudville. These include OpenStack as the cloud operating system, while OSM (but also OpenBaton via FhG) will be available to allow NSD/VNF deployments.  Prometheus alongside with Grafana are installed for monitoring purposes. At the same time, Elastic search and Kibana are installed and being used to collect and visualize data extracted from IoT devices and sensors.
+ 
 
 ### Core 5G /IoT services
 
