@@ -50,6 +50,7 @@ Read more:
 
 [Service Catalogue](service-catalogue)
 [Support and LCM of Network Slice Services](support-and-lcm)
+[Customer Facing Services](customer-facing-services)
 
 
 ## The Patras5G area.
