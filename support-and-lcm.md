@@ -5,6 +5,38 @@
 
 ## Service Exposure Level of Patras5G
 
+See next section about the Exposure Level definition.
+
+The Patras5G exposes all Levels under different circumstances and requirements. This depends on the customer use cases and needs.
+
+### Level 1 Access
+
+**Exposed entity and access:** 5G-VINNI Portal (WEB UI and REST API) https://patras5g.eu , VPN access to deployed NS
+
+**Description:** Service Catalog exposure (TMForum), Service Ordering Support(TMForum), scheduled orchestration, and VPN access to deployed NS. Access to monitoring data of various points
+
+
+### Level 2 Access
+
+**Exposed entity and access:**  5G-VINNI Portal (WEB UI and REST API) https://patras5g.eu NFVO onboarding. Will be available at the level of 5G-RAN, 5G-CORE and Transport Controllers 
+
+**Description:** Upload/manage 3rd party VNFs/NSDs to facility NFVO (via web UI and REST API). scheduled NSD orchestration,  Depending on the capabilities and if the underlying technologies allow this
+
+
+### Level 3 Access
+
+**Exposed entity and access:**  Access to facility OSM (web and NBI SOL005)
+
+**Description:** This will be available in special cases where the portal access is not enough. In most cases a separate tenant will be created ( OSM SIX )
+
+
+### Level 4 Access
+
+**Exposed entity and access:**  Access to facility NFVI
+
+**Description:** Use of Openstack (Rocky) APIs and HORIZON UI. Tenant will not have administrative privileges. Allowed to install VMs on subnets accessible by the 5G core. In certain cases will be allowed to view VNFs deployed by the OSM tenant project
+
+
 
 
 ## Service exposure, monitoring and testing definition
