@@ -12,7 +12,8 @@ The Service Catalogue will also expose an API based on TM Forums OpenAPIs [OpenA
 –	TMF641 Service Ordering
 Since the facility uses OSM, the Service Catalogue utilizes the SOL005 NBI API of OSM to expose Network Service Descriptors (NDSs) as well as Network Slices Templates (NSTs). The Service Catalogue performs transformations from the ETSI defined models as used by OSM for describing VNF, NS descriptors (SOL001, SOL004, SOL006) and the slicing templates defined by OSM to the TM Forum OpenAPIs models. 
 
-![Service Catalog Osm](/uploads/images/service-catalog-osm.png "Service Catalog Osm")
+![Openaapicatalog](/uploads/images/openaapicatalog.png "Openaapicatalog")
+
 
 ## Definition and on-boarding of VNF, NSD descriptors to the different service catalogues
 Two roles will be able to upload VFN and NS descriptors and define slices to be onboarded in the facility site, the customer (CSC) and the provider (CSP).  CSC as well as the CSP will use the facility portal to maintain and on-board different artifacts. The facility site portal mainly:
