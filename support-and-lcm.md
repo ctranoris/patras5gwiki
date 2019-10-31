@@ -2,6 +2,13 @@
 <!-- SUBTITLE: Support and LCM of Network Slice Services -->
 
 # Support and LCM of Network Slice Services
+
+## Service Exposure Level of Patras5G
+
+
+
+## Service exposure, monitoring and testing definition
+
 ![Vinni Sb Structure](/uploads/images/vinni-sb-structure.png "Vinni Sb Structure")
 
 CSP will expose a number of VINNI-SBs towards CSCs. These VINNI-SBs represents service offerings against which CSCs can issue service orders for the delivery of network slice services. The structure of any VINNI-SB is extensively discussed in [Deliverable 3.1](https://www.5g-vinni.eu/deliverables/) of 5G-VINNI project As shown in Figure, VINNI-SB consists of four main parts:
@@ -11,10 +18,18 @@ CSP will expose a number of VINNI-SBs towards CSCs. These VINNI-SBs represents s
 Service exposure, monitoring and testing: specifies the service capability exposure made available to the CSC. This exposure is based on a four-level classification, with each higher level allowing the CSC to gain access to a lower abstraction management entity. Depending on the selected level, the CSC can consume management data (e.g. performance measurements, fault data) and trigger enabled management operations (e.g. LCM) at different abstraction layers, which is relevant for testing and monitoring activities conducted at run-time. 
 
 
+## Service exposure, monitoring and testing
+
+![5G VINNI Access Levels](/uploads/images/5-gvinni-access-levels.png "5G VINNI Access Levels")
+
 The facility is based on OSM. For 5G-VINNI Rel-0 what Greece  will offer is based on OSM Release FIVE, while for 5G-VINNI Rel-1 (after Jan 2020) a migration to OSM Release SIX is planned. which brings advancements in monitoring. The VINNI-SB structure  is expected for next releases of 5G-VINNI project, after Rel-1. So, for Rel-1 only a subset of the parameters will be available for vertical specification.  
 OSM software stack allows the deployment and operation of a wide variety of NFV-NSs, and their offering towards OSM clients following the Network as a Service (NaaS) delivery model. This model allows an OSM clients to request the instantiation of one or more NFV-NSs, by selecting the appropriate NSD(s) - elaborated at design time - and providing (missing) instance-specific parameters. The result is one or more NFV-NS instances that the OSM client can consume for its own purposes.  This is the way OSM has traditionally worked up to Release FOUR, e.g. in 5GinFIRE project.  
 However, 5G-VINNI project is committed to go beyond NFV approach, introducing the network slicing concept and make it available to CSC, allowing them to take the role of OSM clients.  For this end, the OSM release FIVE has extended the information model from previous releases. This new model introduces the network slice information element following the conceptual outline suggested in ETSI NFV-EVE 012.
 
+
+
+
+## OSM Network Slicing
 
 ![Osm Network Slicing](/uploads/images/osm-network-slicing.png "Osm Network Slicing")
 
