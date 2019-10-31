@@ -29,6 +29,8 @@ In Greece facility site the following tasks will be performed:
 * MEC support
 * GEANT connectivity
 
+Check this [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
+
 ## KPIs and Use Cases 
 The Patras 5G testbed will focus on the validation of a series of KPIs, related to developed/deployed features and the selected use cases. On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
 
@@ -52,6 +54,7 @@ Read more:
 [Support and LCM of Network Slice Services](support-and-lcm)
 [Customer Facing Services](customer-facing-services)
 
+[Demo VIdeo for onboarding and deployment of VNFs/NSDs](https://www.youtube.com/watch?v=3-fRuVfe2a4)
 
 ## The Patras5G area.
 
