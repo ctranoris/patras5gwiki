@@ -57,7 +57,7 @@ Read more:
 [Demo VIdeo for onboarding and deployment of VNFs/NSDs](https://www.youtube.com/watch?v=3-fRuVfe2a4)
 
 
-## The Patras5G coverage area .
+## The Patras5G coverage area
 the following are the preliminary coverage plans of the facility
 
 ![Patras Areaplansslide 1](/uploads/images/patras-areaplansslide-1.png "Patras Areaplansslide 1")
