@@ -56,7 +56,18 @@ Read more:
 
 [Demo VIdeo for onboarding and deployment of VNFs/NSDs](https://www.youtube.com/watch?v=3-fRuVfe2a4)
 
-## The Patras5G area.
+
+## The Patras5G coverage area .
+the following are the preliminary coverage plans of the facility
+
+![Patras Areaplansslide 1](/uploads/images/patras-areaplansslide-1.png "Patras Areaplansslide 1")
+![Patras Areaplansslide 2](/uploads/images/patras-areaplansslide-2.png "Patras Areaplansslide 2")
+![Patras Areaplansslide 3](/uploads/images/patras-areaplansslide-3.png "Patras Areaplansslide 3")
+
+
+
+
+## The wider area of Patras city and Western Region
 
 In Patras/Greece facility there will be Outdoor base stations to provide 5G and IoT coverage at locations of interest (where ICT19 vertical pilots will be enabled) both in the Patras campus and in the wider areas (see following two figures).
 
