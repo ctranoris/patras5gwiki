@@ -10,7 +10,7 @@ The 5G-VINNI facility in Greece will be part of the Patras Platform for Experime
 In Greece facility site the following tasks will be performed:
 
 * Providing 5G standard-conformant components and Core Network infrastructure as extension of the FhG Open5GCore toolkit
-* Provide ICOM’s mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
+* Provide Intracom Telecom mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
 * Integration of FhG Open5GCore with Limemicro SDR platform and the SRS UE and g/eNB
 * Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This will further include the slicing of the IoT devices at the edge of the network.
 * Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
@@ -75,7 +75,7 @@ Next figure presents the campus area of the Patras main facility, which includes
 ![patras-innohub](/uploads/images/patras-innohub.png "patras-innohub")
 
 
-Moreover, in the wider area of Patras city and Western Region (shown in the next figure) we depict key vertical industries and stakeholders that could be involved in potential vertical pilots. Some of these verticals that could be enabled are Sea ports, Smart agriculture and fish farming, smart city and critical infrastructures e.g. bridges and public buildings. These areas will be reached by either ICOM backhauling technology or Patras Optical MAN in order to be interconnected with the back end of the Patras facility and corresponding computational and communication resources.
+Moreover, in the wider area of Patras city and Western Region (shown in the next figure) we depict key vertical industries and stakeholders that could be involved in potential vertical pilots. Some of these verticals that could be enabled are Sea ports, Smart agriculture and fish farming, smart city and critical infrastructures e.g. bridges and public buildings. These areas will be reached by either Intracom Telecom backhauling technology or Patras Optical MAN in order to be interconnected with the back end of the Patras facility and corresponding computational and communication resources.
 ![patras-area-map](/uploads/images/patras-area-map.png "patras-area-map")
 
 -----
