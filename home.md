@@ -48,6 +48,11 @@ Read more:
 [Architecture and Components of the Patras/Greece Facility Site](architecture-and-components-)
 
 
+##  Patras 5G Autonomous Edge
+Read more:
+[Patras 5G Autonomous Edge](5g-autonomous-edge)
+
+
 ## Service Catalogue and LCM of Network Slice Services
 
 [Service Catalogue](service-catalogue)
