@@ -22,7 +22,7 @@ Patras 5G Autonomous Edge, is a mobile box, containing everything from the 5G Ne
 
 ### Network Orchestration
 
-- OSM (Open Source Mano - )
+- OSM (Open Source Mano)
 
 ### Service Orchestration
 
