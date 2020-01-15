@@ -19,7 +19,8 @@ Patras 5G Autonomous Edge, is a mobile box, containing everything from the 5G Ne
 
 - Ubuntu 18.04
 - Openstack Stein
-
+- Kubernetes cluster in Openstack
+- 
 ### Network Orchestration
 
 - OSM (Open Source Mano)
@@ -35,8 +36,7 @@ Patras 5G Autonomous Edge, is a mobile box, containing everything from the 5G Ne
 ### Added Services
 
 (These are planned services, not available simultaneously)
-- Kubernetes cluster in Openstack
-- Akraino Edge stack for Edge
+- Akraino Edge stack for MEC
 - EdgeXFoundry for IoT gateway functionallity
 - Intel OpenNESS for MEC
 
