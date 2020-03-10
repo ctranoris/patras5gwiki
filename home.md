@@ -3,11 +3,11 @@
 
 # Patras 5G wiki
 
-The 5G-VINNI facility in Patras/Greece is an exemplary Open Source 5G-IoT facility. This means that most of the installed components will be offered as Open Source but there will be also dedicated components and services to support 5G-IoT scenarios. Numerous partners will deploy their technologies in the Patras/Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
+The 5G-VINNI facility in Patras/Greece is an exemplary Open Source 5G and IoT facility. This means that most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. Numerous partners have deploy their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
 
-The 5G-VINNI facility in Greece will be part of the Patras Platform for Experimentation lab (http://nam.ece.upatras.gr/ppe/). City of Patras has been recently selected by the Greek Ministry of Digital Policy, Telecommunications and Media, as one of the first two 5G pilot cities in Greece. Under this plan, 5G infrastructure will be deployed across the city to facilitate 5G trials and validate the effectiveness of the proposed architecture.
+The 5G-VINNI facility in Greece is part of the Patras Platform for Experimentation lab (http://nam.ece.upatras.gr/ppe/). City of Patras has been recently selected by the Greek Ministry of Digital Policy, Telecommunications and Media, as one of the first two 5G pilot cities in Greece. Under this plan, 5G infrastructure will be deployed across the city to facilitate 5G trials and validate the effectiveness of the proposed architecture.
 
-In Greece facility site the following tasks will be performed:
+In Greece facility site the following tasks are performed:
 
 * Providing 5G standard-conformant components and Core Network infrastructure as extension of the FhG Open5GCore toolkit
 * Provide Intracom Telecom mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
