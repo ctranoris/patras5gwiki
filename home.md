@@ -22,7 +22,7 @@ Check this [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick pres
 
 ![Onboarding Overview](/uploads/onboarding-overview.png "Onboarding Overview")
 
-Summary of capabilities
+**Summary of capabilities**
 With our OSS, NFV and experimentation enabled services, like Openslice and Open Source MANO, we enable E2E automated deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network. Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 300 CPUs and 1TB of RAM and 50 TB of storage. 10GbE NICs DPDK enabled are also available. Patras 5G provides 5G standard-conformant components and Core Network infrastructure and Integration of 5G Core and 5G RAN with our Opensource based NFV platform.  We support various flavors and installations of the 5G System, that are both NSA and SA depending on the scenarios that the customer 
 * 	5G Core and EPC solutions that are available and can be orchestrated in the facility:  FhG Open5GCore, AMARISOFT EPC, SRS EPC, NextEPC
 * 	5G and 4G RAN: AMARISOFT 5G RAN (Classic boxes), 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz, 4G NB-IoT, LTE-M (FhG NB-IOT core) based on AMARISOFT, Various SDR equipment (ETTUS)
@@ -34,6 +34,7 @@ With our OSS, NFV and experimentation enabled services, like Openslice and Open 
 Vertical applications can access the Patras 5G Service Catalogue through the Patras Facility site portal: https://patras5g.eu .  Vertical applications can self-manage and onboard their artifacts through our portal or access programmatically available services.
 Various artifacts can be managed through the facility portal https://patras5g.eu via standardized TMForum OpenAPIs: Service Catalog,  Service Order and Service Inventory, Partner Management and Users, Service Orchestration, VNFs/NSDs catalogue, NFVO endpoints via OSM NBI, Service and NFV Deployment requests. 
 
+![Openslice Logo Small](/uploads/images/openslice-logo-small.png "Openslice Logo Small")
 The Patras Facility site portal is based on Openslice (http://openslice.io) a prototype open source, operations support system. Up is the main contributor of OpenSlice. It supports VNF/NSD onboarding to OpenSourceMANO (OSM) and NSD deployment management. It also supports TMFORUM OpenAPIs regarding Service Catalog Management, Ordering, Resource, etc. Openslice offers the following main functionalities:
 
 * 	Service Catalog Management: A CSP will have the ability to manage the Service Catalog Items, their attributes , organize in categories and decide what to make available to Customers
