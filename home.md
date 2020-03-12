@@ -3,9 +3,7 @@
 
 # Patras 5G wiki
 
-The 5G-VINNI facility in Patras/Greece is an exemplary Open Source 5G and IoT facility. This means that most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. Numerous partners have deploy their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
-
-The 5G-VINNI facility in Greece is part of the Patras Platform for Experimentation lab (http://nam.ece.upatras.gr/ppe/). City of Patras has been recently selected by the Greek Ministry of Digital Policy, Telecommunications and Media, as one of the first two 5G pilot cities in Greece. Under this plan, 5G infrastructure will be deployed across the city to facilitate 5G trials and validate the effectiveness of the proposed architecture.
+The Patras 5G facility is an exemplary Open Source 5G and IoT facility. This means that most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. Numerous partners have deployed their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals. For more information please check http://wiki.patras5g.eu/ )
 
 In Greece facility site the following tasks are performed:
 
@@ -15,21 +13,39 @@ In Greece facility site the following tasks are performed:
 * Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This will further include the slicing of the IoT devices at the edge of the network.
 * Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
 
- Summary of capabilities
 
-* Service Orchestration (via OSM NBI services)
-* NFV MANO (OSM) and NFVI (OpenStack)+DPDK
-* Slicing (Orchestration via OSM extensions, use of dedicated CN instances)
-* 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz
-* 5G Core (FhG Open5GCore)
-* SDN (ODL)
-* NB-IoT, LTE-M (FhG NB-IOT core)
-* UEs based on Limemicro’s SDR and SRS software
-* mmWave backhaul (Intracom)
-* MEC support
-* GEANT connectivity
 
 Check this [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
+
+
+## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
+
+![Onboarding Overview](/uploads/onboarding-overview.png "Onboarding Overview")
+
+Summary of capabilities
+With our OSS, NFV and experimentation enabled services, like Openslice and Open Source MANO, we enable E2E automated deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network. Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 300 CPUs and 1TB of RAM and 50 TB of storage. 10GbE NICs DPDK enabled are also available. Patras 5G provides 5G standard-conformant components and Core Network infrastructure and Integration of 5G Core and 5G RAN with our Opensource based NFV platform.  We support various flavors and installations of the 5G System, that are both NSA and SA depending on the scenarios that the customer 
+* 	5G Core and EPC solutions that are available and can be orchestrated in the facility:  FhG Open5GCore, AMARISOFT EPC, SRS EPC, NextEPC
+* 	5G and 4G RAN: AMARISOFT 5G RAN (Classic boxes), 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz, 4G NB-IoT, LTE-M (FhG NB-IOT core) based on AMARISOFT, Various SDR equipment (ETTUS)
+* 	UEs based on Limemicro’s SDR and SRS software, as well as commercial UEs: Mobile phones LG and Samsung, Huawei CPE, Various SDR equipment, a Drone for URLLC testing
+* 	Monitoring is available through: Graphana, Prometheus,Netdata while OSM also configure with VNF telemetry support
+* 	Patras 5G has mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility from various locations in the region of Patras and beyond. 
+* 	GEANT connectivity is also available
+
+Vertical applications can access the Patras 5G Service Catalogue through the Patras Facility site portal: https://patras5g.eu .  Vertical applications can self-manage and onboard their artifacts through our portal or access programmatically available services.
+Various artifacts can be managed through the facility portal https://patras5g.eu via standardized TMForum OpenAPIs: Service Catalog,  Service Order and Service Inventory, Partner Management and Users, Service Orchestration, VNFs/NSDs catalogue, NFVO endpoints via OSM NBI, Service and NFV Deployment requests. 
+
+The Patras Facility site portal is based on Openslice (http://openslice.io) a prototype open source, operations support system. Up is the main contributor of OpenSlice. It supports VNF/NSD onboarding to OpenSourceMANO (OSM) and NSD deployment management. It also supports TMFORUM OpenAPIs regarding Service Catalog Management, Ordering, Resource, etc. Openslice offers the following main functionalities:
+
+* 	Service Catalog Management: A CSP will have the ability to manage the Service Catalog Items, their attributes , organize in categories and decide what to make available to Customers
+* 	Services Specifications: A CSP will be able to manage Service Specifications
+* 	Service Catalog Exposure: A CSP will be able to expose catalog to customers and related parties
+* 	Service Catalog to Service Catalog: Openslice able to consume and provide Service Catalog items to other catalogs
+* 	Service Order: The Communication Service Customer will be able to place a Service Order
+* 	Service Inventory: The Communication Service and Provider will be able to view deployed Services status
+
+Openslice thus support both APIs for programmable access to the infrastructure as well as a web portal for user friendly access.
+
+
 
 ## KPIs and Use Cases 
 The Patras 5G testbed will focus on the validation of a series of KPIs, related to developed/deployed features and the selected use cases. On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
