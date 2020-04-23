@@ -13,9 +13,7 @@ Patras5G facility incorporates into its architecture the guidelines from telecom
 
 ### Service Exposure Level of Patras5G
 
-See next section about the Exposure Level definition.
-
-The Patras5G exposes all Levels under different circumstances and requirements. This depends on the customer use cases and needs.
+The Patras5G exposes  Levels under different circumstances and requirements. This depends on the customer use cases and needs.
 
 #### Level 1 Access
 
@@ -44,9 +42,10 @@ The Patras5G exposes all Levels under different circumstances and requirements. 
 
 **Description:** Use of Openstack (Rocky) APIs and HORIZON UI. Tenant will not have administrative privileges. Allowed to install VMs on subnets accessible by the 5G core. In certain cases will be allowed to view VNFs deployed by the OSM tenant project
 
+
+See also (https://wiki.patras5g.eu/support-and-lcm) about the Exposure Level definition .
+
 ## Patras5G Experimentation Process
-
-
 
 ### ONBOARDING
 
