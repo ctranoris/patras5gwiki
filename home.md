@@ -31,6 +31,7 @@ With our OSS, NFV and experimentation enabled services, like Openslice and Open 
 * 	Patras 5G has mmWave backhaul to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility from various locations in the region of Patras and beyond. 
 * 	GEANT connectivity is also available
 
+
 Vertical applications can access the Patras 5G Service Catalogue through the Patras Facility site portal: https://patras5g.eu .  Vertical applications can self-manage and onboard their artifacts through our portal or access programmatically available services.
 Various artifacts can be managed through the facility portal https://patras5g.eu via standardized TMForum OpenAPIs: Service Catalog,  Service Order and Service Inventory, Partner Management and Users, Service Orchestration, VNFs/NSDs catalogue, NFVO endpoints via OSM NBI, Service and NFV Deployment requests. 
 
@@ -46,6 +47,12 @@ The Patras Facility site portal is based on Openslice (http://openslice.io) a pr
 
 Openslice thus support both APIs for programmable access to the infrastructure as well as a web portal for user friendly access.
 
+
+
+## Experimentation Process
+
+Read more:
+[Experimentation process](experimentation-process)
 
 
 ## KPIs and Use Cases 
