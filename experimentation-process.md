@@ -44,10 +44,18 @@ The Patras5G exposes all Levels under different circumstances and requirements. 
 
 **Description:** Use of Openstack (Rocky) APIs and HORIZON UI. Tenant will not have administrative privileges. Allowed to install VMs on subnets accessible by the 5G core. In certain cases will be allowed to view VNFs deployed by the OSM tenant project
 
+## Patras5G Experimentation Process
+
+
+
+### ONBOARDING
+
+Onboarding a vertical on Patras5G facility is challenging as it involves various iterative and parallel steps. The problem is compounded by the introduction of experimentation aspects as it involves monitoring and testing of KPIs when the network slice is in operation. It is therefore of utmost importance that the different stakeholders of 5G system co-design and co-develop different parts of the onboarding process for a successful service operation and KPI testing.
+Figure 5 displays the 5G-VINNI vertical onboarding process. The process consists of several phases which are discussed in detail in subsequent sections.
+* i) The co-design period which involves stakeholders such as vertical customers, 5G-VINNI facility providers and CFS/RFS developers to understand the vertical needs and how to enable them.
+* ii) The iterative co-development period which involves the vertical customer and the 5G facility provider to jointly develop the final service to be ordered including the development of any VNFs, test scripts and monitoring services. Testing as a Service (TaaS) and Monitoring as a Service (MaaS) can be integrated during the preparation of the VNFs and development of service templates. This is subject to availability of TaaS and/or MaaS in the 5G-VINNI facility site.
+* iii) The operational and KPI testing KPI period: In this phase the vertical customer can make repeatable and scheduled service orders of the developed service blueprint via the portal and perform KPI testing, monitoring and assessment.
 
 ( Our process is based from the whitepaper https://doi.org/10.5281/zenodo.3695716  )
 
 ![Onboarding Process](/uploads/onboarding/onboarding-process.png "Onboarding Process")
-
-
-
