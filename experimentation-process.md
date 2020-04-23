@@ -91,7 +91,7 @@ The Network Service design process is related with the NFV specifics of onboardi
 ####  VNFD/NSD DEVELOPMENT
 
 This step is optional, depending on whether or not the vertical customer need to on-board any additional VNFs during orchestration.
-Prior to development of VNFs/NSDs, the developer must understand the specifics of the target Patras5G facility and plan for any specific requirements (e.g., hardware acceleration, Internet access for VNF). Creating VNF packages or Network Service descriptors is a tedious task and depends on the target NFV Orchestrator (e.g. OSM, Nokia CloudBand Network Director) and the standard followed. For the creation of VNFs the following should be considered:
+Prior to development of VNFs/NSDs, the developer must understand the specifics of the target Patras5G facility and plan for any specific requirements (e.g., hardware acceleration, Internet access for VNF). Creating VNF packages or Network Service descriptors is a tedious task and depends on the target NFV Orchestrator (e.g. OSM ) and the standard followed. For the creation of VNFs the following should be considered:
 * Preparing the Virtual Machine image
 * Implement a VNF descriptor according to target orchestrator model
 * Implement any configurations related to the VNF Manager and especially the Element Management System (EMS). EMS is responsible for the functional management of VNF, i.e. FCAPS (Fault, Configuration, Accounting, Performance and Security Management), which often involves VNF management using proprietary interfaces.
@@ -102,20 +102,23 @@ Similarly, for Network Service descriptors, the task includes:
 3. Packaging the Network Service
 
 #### VNFD/NSD ONBOARDING
-This is an iterative task performed by the VNF/NSD developers. Usually the developers get access to an orchestrator in order to develop and test their VNF/NSDs. The 5G facility might also give access to their own orchestrator.
+
+This is an iterative task performed by the VNF/NSD developers. Usually the developers get access to an orchestrator in order to develop and test their VNF/NSDs. The Patras5G facility  also give access to their own orchestrator if necessary, although access through portal is preferable. 
 The following options might be available to the vertical customer:
-* Manual onboarding of VNFD/NSD performed by the 5G facility operator.
+* Manual onboarding of VNFD/NSD performed by the Patras5G facility operator.
 * Self-service onboarding/off boarding, deployment test and access (Exposure Level 1): Automated self-service onboarding can be done by Openslice NFV portal when offered by the 5G facility
-* The 5G facility might offer a staging area (e.g. a private OSM to experiment) or offer the use of the production NFVO itself (Exposure Level 2 and 3)
-* The 5G facility might offer VIM access (Exposure Level 4)
-The vertical customer must upload any VM images to the 5G facility so that these can be stored in the image repository.
+* The Patras5G facility might offer a staging area (e.g. a private OSM to experiment) or offer the use of the production NFVO itself (Exposure Level 2 and 3)
+* The Patras5G facility might offer VIM access (Exposure Level 4)
+The vertical customer must upload any VM images to the Patras5G facility so that these can be stored in the image repository.
 
 #### VNFD/NSD VALIDATION
-In this step, it is recommended to test the NSD orchestration only by the NFVO to identify any errors in which case the previous steps of developing, on-boarding, test orchestration might be repeated.
-When the pre-validation and testing are performed and the VNFDs and NSDs can be repeatedly orchestrated and instantiated without errors, it is advised to on-board the VNFDs and NSDs to the production NFVO of the 5G facility via its tools and processes.
-It needs to be highlighted that remote access through VPN is provided by the 5G-VINNI facility for accessing the instantiated VNFs and the running NSs.
 
-#### VNFD/NSD MAAS AND TAAS
+In this step, it is recommended to test the NSD orchestration only by the NFVO to identify any errors in which case the previous steps of developing, on-boarding, test orchestration might be repeated.
+When the pre-validation and testing are performed and the VNFDs and NSDs can be repeatedly orchestrated and instantiated without errors, it is advised to on-board the VNFDs and NSDs to the production NFVO of the Patras5G facility via its tools and processes.
+It needs to be highlighted that remote access through VPN is provided by the Patras5G facility for accessing the instantiated VNFs and the running NSs.
+
+#### VNFD/NSD MAAS AND TAAS (If available)
+
 While this step is optional, the vertical customer should consider the involvement of monitoring and testing services during VNFD and NSD development. Such services can be consumed both as a human-driven or an automated interaction. It is necessary to understand that such services require actions from the vertical customer side in order to be properly consumed such as the VNF exposing its functionality to a monitoring system.
 TaaS is a set of testing tools and automation frameworks that allow the vertical customer to either execute standard verification of the Network Service, or create and execute customized suites of tests that can be successfully integrated into the life cycle of the NSD. Such tests can also include the vertical customer’s application, since the TaaS system should be capable of onboarding specific drivers.
 MaaS is targeted at having a constant overview of the health and performance of the system, and it consists of two main categories of services: Network Monitoring and Telemetry. The former is the traditional overview of the traffic flowing across the network, in particular emphasizing the visibility in specific critical points in the network. The latter is focused on providing the health and performance of the individual Network Service or VNFs/application components. The two categories are very different despite being offered under the same umbrella of MaaS.
@@ -125,11 +128,12 @@ TaaS consists of a set of testing tools that can be deployed, configured, and au
 * create and execute test campaigns, i.e. batch of test scripts that can be executed on multiple target infrastructures
 * visualize logs and results through the offered visualization systems
 * allow the vertical to develop customized visualizations
-In order to better understand how to consume a TaaS service, an example is depicted in Figure 6
+
 
 #### PRE-VALIDATION KPI PERIOD VIA NFVO
-After a vertical customer together with the 5G-VINNI facility have developed the VNFs and NSDs, the next step is to test these for proper instantiation via the 5G facility’s NFV orchestrator. Since, at this point in the process, the orchestration has been verified, the vertical customer and the 5G facility can schedule and perform a pre-validation of the Network Service.
-This step might also involve TaaS. By invoking TaaS during VNF and Network Service deployment, the vertical customer and 5G-VINNI facility need to validate that the VNFs and TaaS/MaaS work as expected.
+
+After a vertical customer together with the Patras5G facility have developed the VNFs and NSDs, the next step is to test these for proper instantiation via the Patras5G facility’s NFV orchestrator. Since, at this point in the process, the orchestration has been verified, the vertical customer and the  facility can schedule and perform a pre-validation of the Network Service.
+This step might also involve TaaS. By invoking TaaS during VNF and Network Service deployment, the vertical customer and the facility need to validate that the VNFs and TaaS/MaaS work as expected.
 The above defined steps of the Network Service design process might be repeated multiple times since NFV orchestration is key to repeatability of Network Service deployments and testing.
 
 ### CO-DEVELOPMENT PERIOD– SERVICE DESIGN PROCESS (CFS)
@@ -161,21 +165,26 @@ In this step, a pre-validation period can start and required adjustment can be m
 
 ### OPERATIONAL AND KPI TESTING PERIOD
 
-During this period and since CFS and RFS are in place, an official Testing period can start according to the 5G-VINNI facility plan. This process is again iterative and if necessary, developers might revisit previous steps. The following steps are planned.
+During this period and since CFS and RFS are in place, an official Testing period can start according to the Patras5G facility. This process is again iterative and if necessary, developers might revisit previous steps. The following steps are planned.
 
-#### SERVICE BLUEPRINT SPECIFICATION LAUNCHED
-The latest developed 5G-VINNI-SB is officially launched in the 5G facility catalogue and ready for service orders.
+#### SERVICE SPECIFICATION LAUNCHED
+
+The latest developed Service Specification is officially launched in the Patras5G facility catalogue and ready for service orders.
 
 #### E2E SERVICE ORDER FULFILMENT
+
 The Service Order takes place and the subsequent services are instantiated.
 
 #### TESTING
+
 In this phase the actual testing takes place, either through automated scripts or via user interactions. It is strongly suggested to use test automation in order to ensure consistency and repeatability of the results. Testing consulting services will be provided in order to facilitate the testing and experimentation operations. The results of the testing (or the MaaS aspects) will be stored in heterogeneous data stores. These data stores cannot be defined at the present moment and will be strongly dependent on the use cases and tools used.
 
 #### ASSESSMENT
+
 The monitoring data is available to the vertical customer for any assessment.
 
-### OFFER THE SERVICE BLUEPRINT TO THE VERTICAL COMMUNITY
-After the testing and validation period the defined 5G-VINNI-SB can be publicly offered to the vertical customer community for repeatable deployments.
+### OFFER THE SERVICE SPECIFICATION TO THE VERTICAL COMMUNITY
+
+After the testing and validation period the defined Service Specification can be publicly offered to the vertical customer community for repeatable deployments.
 
 
