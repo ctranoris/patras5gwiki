@@ -80,4 +80,28 @@ The advantage of the early installation of the vertical use case enables all the
 *  the procedure and tools for automated test, measurement and validation. This also involves shepherding the vertical in order
 
 
+Upon reaching a common understanding, the vertical and the 5G facility can proceed with a co-development period. We identify here two main processes:
+i) the Network Service Design process which is related to resource facing services (RFS)
+ii) the Service Design process which is related to customer facing services (CFS)
+
+### CO-DEVELOPMENT PERIOD– SERVICE DESIGN PROCESS (CFS)
+
+During this phase the 5G facility develops the service blueprint (SB) together with the vertical customer. The SB is pre-launch/pre-ordered via the Service Orchestrator which also involves validation of the Taas and MaaS to be correctly orchestrated. The process is iterative and interacts with the Network Service Design process.
+
+#### DESIGN THE SERVICE BLUEPRINT
+During this process, the Vertical and the 5G facility can define the attributes of the 5G-VINNI-SB. This step might need some research on defining the proper parameter values in which the stakeholders need to be pragmatic on how these requirements are “translated” towards the SO and NFVO. In later stages, the 5G-VINNI-SB will be used to automatically trigger the complete orchestration of the network slice instance. Proper definition of the 5G-VINNI-SB requires some work initially but this will benefit the vertical customer to consequently reproduce the service instantiation via the service catalogues at later stages with potential minor updates to the 5G-VINNI-SB.
+
+#### TEST CASE DESIGN
+The 5G-VINNI-SB will have the option to include testing as a service (TaaS). For example, by including relevant test scripts for TaaS. The test scripts will represent specific Test Cases (TCs) that are targeted at stressing specific aspects or KPIs of the Service. It is important to understand that there are two types of TCs: 1) TCs for validating fundamental network KPIs like throughput, delay, and 2) TCs for validating the service of the vertical customer that might include the vertical’s application. While the former can be offered as part of the service design with minimal configuration, the latter might require significant work.
+Training on TCs design methodologies will be offered by 5G-VINNI facility as part of the available documentation. It is of fundamental importance that in order to achieve consistent and repeatable results, all actors in the value chain, including the vertical customer, is capable of designing solid TCs. Ongoing consulting support will be provided in the design phase, where most of the work will consists in creating specifications rather than scripts. Only afterward, the scripts can be reliably developed.
+
+#### TEST AND VALIDATE SERVICE BLUEPRINT DEPLOYMENT/ ACTIVATION OF SB
+At this point the 5G-VINNI-SB has been co-created with the vertical. The next step is to test and validate its proper operation via the SO. This involves pre-launching/pre-ordering the 5G-VINNI-SB via the portal to check that the 5G-VINNI-SB can be correctly orchestrated via the SO. In this step, the 5G-VINNI facility tries to instantiate, test and validate the defined 5G-VINNI-SB. This is also related to developments in Openslice itself as well as development in the SO part. During this step, the 5G-VINNI-SB attributes might be redefined based on the interaction with the 5G-VINNI facility.
+
+#### LAUNCH SERVICE SPEC - ALPHA/BETA VERSIONS
+Since the 5G-VINNI-SB is instantiated and validated successfully, the 5G-VINNI facility can start launching different versions of the 5G-VINNI-SB towards the SO and NFVO while involving TaaS and MaaS, checking and assessing their interoperability.
+
+#### PRE-VALIDATION
+In this step, a pre-validation period can start and required adjustment can be made to the service order. The vertical customer and 5G-VINNI facility can check that the KPIs can be extracted properly. Since the orchestration of 5G-VINNI-SB parts have been verified, the vertical customer and the 5G-VINNI facility can schedule and perform a pre-validation of the service and validate the proper deployment of the Network Service as discussed in section 2.3. At this stage it can be verified that the developed CFS can extract the proper KPIs. This process might also involve TaaS. By invoking TaaS during service deployment, the vertical customer and 5G facility will validate that the 5G-VINNI-SB and TaaS/MaaS work as expected.
+
 
