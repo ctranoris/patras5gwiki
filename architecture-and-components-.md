@@ -11,7 +11,7 @@
 
 Currently, the Patras/Greece facility is equipped with a cloud platform offered by the University of Patras, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 212 CPUs and 768 Gigabytes of RAM and 30 TB of storage. Two servers with 4x10GbE NICs DPDK enabled will be also available.
 
-On top of our cloud hardware, a rich set of state-of-the-art SW tools is already available, which comprises our platform for experimentation called Cloudville. These include OpenStack as the cloud operating system, while OSM (but also OpenBaton via FhG) will be available to allow NSD/VNF deployments.  Prometheus alongside with Grafana are installed for monitoring purposes. At the same time, Elastic search and Kibana are installed and being used to collect and visualize data extracted from IoT devices and sensors.
+On top of our cloud hardware, a rich set of state-of-the-art SW tools is already available, which comprises our platform for experimentation called Cloudville. These include OpenStack as the cloud operating system but also a Kubernetes cluster install over Openstack, while OSM (but also OpenBaton via FhG) will be available to allow NSD/VNF deployments.  Prometheus alongside with Grafana are installed for monitoring purposes. At the same time, Elastic search and Kibana are installed and being used to collect and visualize data extracted from IoT devices and sensors.
 
 
 
