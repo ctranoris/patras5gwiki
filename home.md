@@ -53,7 +53,7 @@ Openslice thus support both APIs for programmable access to the infrastructure a
 
 Read more:
 [Experimentation process](experimentation-process)
-
+[Telemetry/Monitoring](telemetry-monitoring)
 
 ## KPIs and Use Cases 
 The Patras 5G testbed will focus on the validation of a series of KPIs, related to developed/deployed features and the selected use cases. On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
