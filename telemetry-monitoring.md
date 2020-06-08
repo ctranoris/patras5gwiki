@@ -28,6 +28,10 @@ Patras5G facility monitoring  in NSD:
 ![Img 3](/uploads/telemetry-monitoring/img-3.png "Img 3")
 
 
+## Example video demos
+
+https://www.youtube.com/watch?v=X662lml0p8w&t=2s
+
 
 [1] https://github.com/netdata/netdata/tree/master/web/api
 [2] https://prometheus.io/docs/prometheus/latest/querying/api/
