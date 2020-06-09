@@ -110,3 +110,48 @@ The following test procedure define the xxx:
 
 
 
+
+# Maximum Guaranteed Latency
+
+
+| Related Standard/Definition    | Definition | Description |
+|-----------------|-------|-------|
+| 3GPP TS 28.554
+  | Maximum user experienced RTT required for the user to get a quality experience of the use case (95th percentile) | This KPI is the RTT end to end latency of UE IP packets transmitted from UE to the N6 interface in the 5G network. The N6 interface is the reference point between UPF and DN
+ |
+
+## Test environment
+
+###Test Configuration 1: 
+
+
+### Test procedure
+
+The following test procedure define the xxx:
+
+
+
+### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+
+
+# XXX
+
+
+| Related Standard/Definition    | Definition | Description |
+|-----------------|-------|-------|
+| xxx  | xxx| xxx |
+
+## Test environment
+
+###Test Configuration 1: 
+
+
+### Test procedure
+
+The following test procedure define the xxx:
+
+
+
+### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+
+
