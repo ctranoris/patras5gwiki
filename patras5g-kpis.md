@@ -18,6 +18,9 @@ The Patras 5G testbed focuses on the validation of a series of KPIs, related to 
 ###Test Configuration 1: 
 
 Conf. 1 (eMBB service)
+Location: Indoor
+Distance: ~3m
+
 
 | BS            | Mode    | UE                                           | Commands                                       | 
 |---------------|---------|----------------------------------------------|-------------------------------------------------|
@@ -35,7 +38,8 @@ Conf. 1 (eMBB service)
 
 ###Test Configuration 2: 
 Conf. 1 (eMBB service)
-
+Location: Indoor
+Distance: ~3m
 
 | BS            | Mode    | UE                                           | Commands                                       | 
 |---------------|---------|----------------------------------------------|-------------------------------------------------|
