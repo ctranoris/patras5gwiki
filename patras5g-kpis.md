@@ -55,7 +55,7 @@ Distance: ~3m
 | 40              | 2x2   | 213          | 23,4       | 146         | 25,1       | 202                        | 25,7                                          |
 
 
-### Test procedure
+## Test procedure
 
 The following test procedure define the peak UL/DL data rate test:
 
@@ -77,7 +77,7 @@ L1 throughput using measurement tool; session duration should be at least 2 minu
 value should be reported.
 
 
-### Logging at gNB side and UE side
+## Logging at gNB side and UE side
 On UE side, the following metrics should be available for performance assessment:
 
 - DL throughput (L1 and PDCP throughput)
@@ -97,16 +97,16 @@ On UE side, the following metrics should be available for performance assessment
 
 ## Test environment
 
-###Test Configuration 1: 
+### Test Configuration 1: 
 
 
-### Test procedure
+## Test procedure
 
 The following test procedure define the xxx:
 
 
 
-### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+## Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
 
 
 
@@ -122,16 +122,16 @@ The following test procedure define the xxx:
 
 ## Test environment
 
-###Test Configuration 1: 
+### Test Configuration 1: 
 
 
-### Test procedure
+## Test procedure
 
 The following test procedure define the xxx:
 
 
 
-### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+## Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
 
 
 # XXX
@@ -146,12 +146,12 @@ The following test procedure define the xxx:
 ### Test Configuration 1: 
 
 
-### Test procedure
+## Test procedure
 
 The following test procedure define the xxx:
 
 
 
-### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+## Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
 
 
