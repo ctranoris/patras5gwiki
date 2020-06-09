@@ -7,15 +7,15 @@ The Patras 5G testbed focuses on the validation of a series of KPIs, related to 
 *major parts are based on 5G PPP phase II KPIs definitions/3GPP/NGMN/ITU as described*
 
 
-## Peak throughput for Single Network Slice Instance
+# Peak throughput for Single Network Slice Instance
 
 | Related Definition    | Description | Definition |
 |-----------------|-------|-------|
 |190802_NGMN-PreCommTrials_Framework_definition_v3.0  | 5G is expected to provide significant improvement in the context of peak data rates (on both UL and DL). 5G data rate requirements are in the order of 100 Mbps to 1 Gbps for user experienced data rate, with peaks of 10 Gbps data rate. This leads to an improvement needed (compared to LTE Rel’12) to meet NGMN requirements in the order of > 10x. The purpose of this test is to verify peak DL and UL UE data rate provided by 5G system. | Peak user throughput is the maximum DL/UL data rate achievable for a single user located at the best location within a cell.|
 
-### Test environment
+## Test environment
 
-####Test Configuration: 
+###Test Configuration 1: 
 
 Conf. 1 (eMBB service)
 
@@ -33,7 +33,7 @@ Conf. 1 (eMBB service)
 | 40              | 2x2   | 215          | 20,4       | 51,2        | 24,9       | 202                        | 24,4                                          |
     
 
-Test Configuration: 
+###Test Configuration 2: 
 Conf. 1 (eMBB service)
 
 
