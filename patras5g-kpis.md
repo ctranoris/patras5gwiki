@@ -55,6 +55,38 @@ Distance: ~3m
 | 40              | 2x2   | 213          | 23,4       | 146         | 25,1       | 202                        | 25,7                                          |
 
 
+### Test procedure
+
+The following test procedure define the peak UL/DL data rate test:
+
+1. Coverage of the test area defined as Received RSRP > -60 dBm and SINR > 22dB as measured with measurement tool.
+2. Identify a location(s) where combination of highest MIMO rank, modulation and coding rate can be attained with stability.
+3. Ensure that there are no UEs connected in any of the surrounding cells.
+4. Repeat steps 5-6 at each location with the UE static in that location.
+5. Connect 1 UE to the sector and ensure there is only this UE connected to the sector.
+6. Measure L1 and PDCP layer throughput
+a. If dynamic UL/DL ratio is not supported, reconfigure the system for minimum UL DL/UL ratio
+b. Download to the UE using UDP or TCP (using iperf) for DL peak test
+c. Measure PDCP layer throughput (PDCP throughput is payload bits divided by the aggregated time) and
+L1 throughput using measurement tool; session duration should be at least 2 minutes; max./min./avg.
+value should be reported
+If dynamic UL/DL ratio is not supported, reconfigure the system for minimum DL DL/UL ratio
+d. Upload to the test server using UDP or TCP (using iperf) for UL peak test
+e. Measure PDCP layer throughput (PDCP throughput is payload bits divided by the aggregated time) and
+L1 throughput using measurement tool; session duration should be at least 2 minutes; max./min./avg.
+value should be reported.
+
+
+### Logging at gNB side and UE side
+On UE side, the following metrics should be available for performance assessment:
+
+- DL throughput (L1 and PDCP throughput)
+- UL throughput (L1 and PDCP throughput)
+- RSRP (Reference Signal Received Power)
+- RSRQ (Reference Signal Received Quality)
+- SINR
+- DL BLER (at first retransmission)
+- MIMO mode used (incl. MIMO rank)
 
 ## Service Deployment Time
 
