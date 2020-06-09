@@ -13,8 +13,10 @@ The Patras 5G testbed focuses on the validation of a series of KPIs, related to 
 |-----------------|-------|-------|
 |190802_NGMN-PreCommTrials_Framework_definition_v3.0  | 5G is expected to provide significant improvement in the context of peak data rates (on both UL and DL). 5G data rate requirements are in the order of 100 Mbps to 1 Gbps for user experienced data rate, with peaks of 10 Gbps data rate. This leads to an improvement needed (compared to LTE Rel’12) to meet NGMN requirements in the order of > 10x. The purpose of this test is to verify peak DL and UL UE data rate provided by 5G system. | Peak user throughput is the maximum DL/UL data rate achievable for a single user located at the best location within a cell.|
 
+### Test environment
 
-Test Configuration: 
+####Test Configuration: 
+
 Conf. 1 (eMBB service)
 
 | BS            | Mode    | UE                                           | Commands                                       | 
@@ -37,7 +39,7 @@ Conf. 1 (eMBB service)
 
 | BS            | Mode    | UE                                           | Commands                                       | 
 |---------------|---------|----------------------------------------------|-------------------------------------------------|
-| Amarisoft 5G, | NSA/TDD | **Samsung A90 ** | iperf3 -s -i 1 -u                               |
+| Amarisoft 5G, | NSA/TDD | **Samsung A90** | iperf3 -s -i 1 -u                               |
 |               |         |                                              | iperf3 -c   192.168.3.2  -i 1 -u -b 300M -t 100 |                                           |                        |   |   |   |
 
 
@@ -50,7 +52,7 @@ Conf. 1 (eMBB service)
 
 
 
-## Service Delpoyment Time
+## Service Deployment Time
 
 
 
