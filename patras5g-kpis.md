@@ -88,7 +88,7 @@ On UE side, the following metrics should be available for performance assessment
 - DL BLER (at first retransmission)
 - MIMO mode used (incl. MIMO rank)
 
-## Service Deployment Time
+# Service Deployment Time
 
 
 | Related Standard/Definition    | Definition | Description |
