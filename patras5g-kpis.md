@@ -91,13 +91,22 @@ On UE side, the following metrics should be available for performance assessment
 ## Service Deployment Time
 
 
+| Related Standard/Definition    | Definition | Description |
+|-----------------|-------|-------|
+| xxx  | xxx| xxx |
+
+## Test environment
+
+###Test Configuration 1: 
 
 
-On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
+### Test procedure
 
-The set of use cases which will challenge the 5G-VINNI KPIs and will be targeted by the test plans are as follows:
+The following test procedure define the xxx:
 
-* Information society on the road (eMBB)
-* Collaborative gaming AR/VR (URLLC and eMBB)
-* Ultra-high fidelity media AR/VR (URLLS and eMBB)
-* Intelligent navigation (URLLC and eMBB)
+
+
+### Logging at XXXX (e.g.  gNB side and UE side, Core, NFVI, etc)
+
+
+
