@@ -57,19 +57,7 @@ Read more:
 
 ## KPIs and Use Cases 
 
-The Patras 5G testbed focuses on the validation of a series of KPIs, related to developed/deployed features and the selected use cases. On the generic NFV/MEC front and with respect to the available MANO features, validation will focus on the Latency, Energy, Throughput, Service Deployment Time KPIs. Related to the employed use cases, activities will also focus on Reliability (Service Continuity), Latency (Interactivity), Energy Efficiency and Throughput KPIs. Additional, qualitative/quantitative assessment activities will focus on validating resource and traffic isolation.
-
-The set of use cases which will challenge the 5G-VINNI KPIs and will be targeted by the test plans are as follows:
-
-* Information society on the road (eMBB)
-* Collaborative gaming AR/VR (URLLC and eMBB)
-* Ultra-high fidelity media AR/VR (URLLS and eMBB)
-* Intelligent navigation (URLLC and eMBB)
-
-Check in this page some KPIs:
-
-[Patras5G-KPIs](Patras5G-KPIs)
-
+Check in this page some KPIs: [Patras5G-KPIs](Patras5G-KPIs)
 
 ##  Architecture and Components of the Facility Site 
 
