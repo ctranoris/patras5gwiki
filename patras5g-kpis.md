@@ -17,12 +17,11 @@ The Patras 5G testbed focuses on the validation of a series of KPIs, related to 
 Test Configuration: 
 Conf. 1 (eMBB service)
 
- | BS            | Mode    | UE                                           | Commands:                                       | iperf3 -s -i 1 -u , iperf3 -c 192.168.3.2 | -i 1 -u -b 300M -t 100 |   |   |   |
-|---------------|---------|----------------------------------------------|-------------------------------------------------|-------------------------------------------|------------------------|---|---|---|
-| Amarisoft 5G, | NSA/TDD | Huawei CPE (Samsung A90 connected via Wifi), | iperf3 -s -i 1 -u                               |                                           |                        |   |   |   |
+| BS            | Mode    | UE                                           | Commands                                       | 
+|---------------|---------|----------------------------------------------|-------------------------------------------------|
+| Amarisoft 5G, | NSA/TDD | Huawei CPE (Samsung A90 connected via Wifi), | iperf3 -s -i 1 -u                               |
 |               |         |                                              | iperf3 -c   192.168.3.2  -i 1 -u -b 300M -t 100 |                                           |                        |   |   |   |
-|               |         |                                              |                                                 |                                           |                        |   |   |   |
-|               |         |                                              |                                                 |                                           |                        |   |   |   |
+
 
 
 | Bandwidth (MHz) | MIMO  | Downlink UDP | Uplink UDP | Down TCP    | Uplink TCP | speedtest GRNET multi down | GRNET multi UP                                |
@@ -32,13 +31,12 @@ Conf. 1 (eMBB service)
 | 40              | 2x2   | 215          | 20,4       | 51,2        | 24,9       | 202                        | 24,4                                          |
     
 
-
-| BS            | Mode    | UE                                           | Commands:                                       | iperf3 -s -i 1 -u , iperf3 -c 192.168.3.2 | -i 1 -u -b 300M -t 100 |   |   |   |
-|---------------|---------|----------------------------------------------|-------------------------------------------------|-------------------------------------------|------------------------|---|---|---|
-| Amarisoft 5G, | NSA/TDD | Samsung A90  | iperf3 -s -i 1 -u                               |                                           |                        |   |   |   |
+| BS            | Mode    | UE                                           | Commands                                       | 
+|---------------|---------|----------------------------------------------|-------------------------------------------------|
+| Amarisoft 5G, | NSA/TDD | Samsung A90  | iperf3 -s -i 1 -u                               |
 |               |         |                                              | iperf3 -c   192.168.3.2  -i 1 -u -b 300M -t 100 |                                           |                        |   |   |   |
-|               |         |                                              |                                                 |                                           |                        |   |   |   |
-|               |         |                                              |                                                 |                                           |                        |   |   |   |
+
+
 
 | Bandwidth (MHz) | MIMO  | Downlink UDP | Uplink UDP | Down TCP    | Uplink TCP | speedtest GRNET multi down | GRNET multi UP                                |
 |-----------------|-------|--------------|------------|-------------|------------|----------------------------|-----------------------------------------------|
