@@ -13,9 +13,11 @@ In Greece facility site the following tasks are performed:
 * Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This will further include the slicing of the IoT devices at the edge of the network.
 * Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
 
+## Demo videos
 
 
-Check this [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
+5G end-to-end experimentation: From Service Order to Network Monitoring Service https://www.youtube.com/watch?v=X662lml0p8w
+5G-VINNI Patras Facility [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
 
 
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
