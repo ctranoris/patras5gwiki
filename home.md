@@ -3,7 +3,7 @@
 
 # Patras 5G wiki
 
-**The Patras 5G facility is an "isolated" Non-public Network for 5G and IoT applications. **
+**The Patras 5G facility is an "isolated" Non-public Network for 5G and IoT applications.**
 
 Most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. Numerous partners have deployed their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals. For more information please check http://wiki.patras5g.eu/ )
 
