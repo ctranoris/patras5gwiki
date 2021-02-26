@@ -48,4 +48,4 @@ Patras 5G Autonomous Edge, is a mobile box, ideal for on-premise 5G deployments 
 - Prometheus
 - Netdata
 
-<iframe src="https://patras.sense.city" title="W3Schools Free Online Web Tutorials"></iframe></p>
+<iframe src="https://sense.city" title="W3Schools Free Online Web Tutorials"></iframe></p>
