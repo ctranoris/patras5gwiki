@@ -106,4 +106,4 @@ Moreover, in the wider area of Patras city and Western Region (shown in the next
 
 -----
 ![Eu Flag](/uploads/images/eu-flag.png "Eu Flag")
-5GinFIRE project has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreement n° 732497
+Patras5G  has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreement n° 732497
