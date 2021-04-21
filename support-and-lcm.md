@@ -41,7 +41,9 @@ The Patras5G exposes all Levels under different circumstances and requirements. 
 
 ## Service exposure, monitoring and testing definition
 
-![Vinni Sb Structure](/uploads/images/vinni-sb-structure.png "Vinni Sb Structure")
+
+<img src="/uploads/images/vinni-sb-structure.png" width="800">
+
 
 CSP will expose a number of VINNI-SBs towards CSCs. These VINNI-SBs represents service offerings against which CSCs can issue service orders for the delivery of network slice services. The structure of any VINNI-SB is extensively discussed in [Deliverable 3.1](https://www.5g-vinni.eu/deliverables/) of 5G-VINNI project As shown in Figure, VINNI-SB consists of four main parts:
 •	Service type: provides a high-level description of the slice service to be provided from this VINNI-SB. Any VINNI-SB must specify one of the following options: enhanced Mobile Broadband (eMBB), ultra-Reliable Low Latency Communication (uRLLC), massive IoT (mIoT) and customised. 
@@ -52,7 +54,8 @@ Service exposure, monitoring and testing: specifies the service capability expos
 
 ## Service exposure, monitoring and testing
 
-![5G VINNI Access Levels](/uploads/images/5-gvinni-access-levels.png "5G VINNI Access Levels")
+
+<img src="/uploads/images/5-gvinni-access-levels.png" width="800">
 
 The facility is based on OSM. For 5G-VINNI Rel-0 what Greece  will offer is based on OSM Release FIVE, while for 5G-VINNI Rel-1 (after Jan 2020) a migration to OSM Release SIX is planned. which brings advancements in monitoring. The VINNI-SB structure  is expected for next releases of 5G-VINNI project, after Rel-1. So, for Rel-1 only a subset of the parameters will be available for vertical specification.  
 OSM software stack allows the deployment and operation of a wide variety of NFV-NSs, and their offering towards OSM clients following the Network as a Service (NaaS) delivery model. This model allows an OSM clients to request the instantiation of one or more NFV-NSs, by selecting the appropriate NSD(s) - elaborated at design time - and providing (missing) instance-specific parameters. The result is one or more NFV-NS instances that the OSM client can consume for its own purposes.  This is the way OSM has traditionally worked up to Release FOUR, e.g. in 5GinFIRE project.  
@@ -63,7 +66,10 @@ However, 5G-VINNI project is committed to go beyond NFV approach, introducing th
 
 ## OSM Network Slicing
 
-![Osm Network Slicing](/uploads/images/osm-network-slicing.png "Osm Network Slicing")
+
+
+<img src="/uploads/images/osm-network-slicing.png" width="800">
+
 
 This figure shows that an NFV-NSs can be viewed as the resource-centric view of a network slice subnet, and these network slice subnets can be flexibly combined to build out different (E2E) network slices. According to this approach, in OSM a Network Slice Instance (NSI) will be composed of one or more Network Slice Subnet Instances (NSSIs), each deployed as an instance from a given NFV-NS. For the management of these NSIs, the OSM has extended the NBI component with the incorporation of a module Slice Manager. 
 
