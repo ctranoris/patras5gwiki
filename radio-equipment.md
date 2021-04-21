@@ -3,5 +3,5 @@
 
 # Radio equipment at Patras5G
 
-![Amarisoft Indoor](/uploads/images/amarisoft-indoor.jpg "Amarisoft Indoor")
+![Amarisoft Indoor](/uploads/images/amarisoft-indoor.jpg "Amarisoft Indoor" =150x50)
 
