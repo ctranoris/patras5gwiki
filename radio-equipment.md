@@ -3,3 +3,5 @@
 
 # Radio equipment at Patras5G
 
+![Amarisoft Indoor](/uploads/images/amarisoft-indoor.jpg "Amarisoft Indoor")
+
