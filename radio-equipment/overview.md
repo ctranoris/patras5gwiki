@@ -1,7 +1,7 @@
 <!-- Radio Equipment -->
 <!-- Overview of the radio equipment used in Patars 5G facility.-->
 
-# Headerc
+# Header
 
 
 
