@@ -14,9 +14,9 @@
 -----
 -----
 -----
-| Syntax      || |
+| RADIO EQUIPMENT       || |
 | ----------- | ----------- | ----------- |
-| Header      | Title       |Title       |
+| TYPE      | MODEL       |DETAILS       |
 | Paragraph   | Text        |Title       |
 -----
 -----
