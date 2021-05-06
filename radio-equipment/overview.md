@@ -5,8 +5,7 @@
 
 |RADIO EQUIPMENT|
 |---|---|---|
-TYPE
-MODEL
+|TYPE|MODEL
 DETAILS
 gNodeB
 Amarisoft Classic 
