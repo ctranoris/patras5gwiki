@@ -17,7 +17,7 @@
 | RADIO EQUIPMENT       || |
 | ----------- | ----------- | ----------- |
 | TYPE      | MODEL       |DETAILS       |
-| Paragraph   | Text        |Title       |
+| Paragraph   | Amarisoft Classic <br>   LimeNET Crowd Cell     |Title       |
 -----
 -----
 |RADIO EQUIPMENT   |
