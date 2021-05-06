@@ -5,8 +5,7 @@
 
 |RADIO EQUIPMENT|
 |---|---|---|
-|TYPE|MODEL
-DETAILS
+|TYPE|MODEL|DETAILS|
 gNodeB
 Amarisoft Classic 
 4G/5G, SA/NSA, NB-IoT, 3SDR 2X2
