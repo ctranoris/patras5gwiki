@@ -104,6 +104,11 @@ Next figure presents the campus area of the Patras main facility, which includes
 Moreover, in the wider area of Patras city and Western Region (shown in the next figure) we depict key vertical industries and stakeholders that could be involved in potential vertical pilots. Some of these verticals that could be enabled are Sea ports, Smart agriculture and fish farming, smart city and critical infrastructures e.g. bridges and public buildings. These areas will be reached by either Intracom Telecom backhauling technology or Patras Optical MAN in order to be interconnected with the back end of the Patras facility and corresponding computational and communication resources.
 ![patras-area-map](/uploads/images/patras-area-map.png "patras-area-map")
 
+
+## Contact
+
+See http://nam.ece.upatras.gr
+
 -----
 ![Eu Flag](/uploads/images/eu-flag.png "Eu Flag")
 Patras5G  has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreement n° 732497
