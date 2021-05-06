@@ -12,7 +12,7 @@
 | SDR                         |ETUS N310 <br>   ETUS b210  <br> ETUS b205 mini <br>  LimeSDR mini |gNodeB 4X4 <br>UE/gNodeB 2X2<br>UE 1X1<br>1X1  |
 | [UE ](#ue)                      |Huawei CPE Pro  <br>   Huawei CPE Pro 2  |NSA/SA <br> SA  |
 | [Mobile Phones](#ue)       |Huawei P40 Pro  <br>  Oneplus NORD N10 <br>Redmi Note 9T <br> Realme X50<br> Samsung A90  |SA <br> SA <br> NSA <br> ~~SA~~ <br> NSA  |
-| Other Devices         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
+| [Other Devices](#other_devices)         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
 
 -----
 # Tabs {.tabset}
@@ -24,6 +24,6 @@ Some General content regarding gNodeB...
 
 Some General content regarding UEs...
 
-## Third Tab
+## Third Tab {#other_devices}
 
 Some General content regarding other devices....
