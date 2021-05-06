@@ -14,10 +14,10 @@
 -----
 -----
 -----
-| Syntax      | |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax      || |
+| ----------- | ----------- | ----------- |
+| Header      | Title       |Title       |
+| Paragraph   | Text        |Title       |
 -----
 -----
 |RADIO EQUIPMENT   |
