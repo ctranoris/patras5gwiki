@@ -14,11 +14,10 @@
 -----
 -----
 -----
-| Syntax      Description |
-| ----------- | ----------- |---|
-| TYPE      | MPDEL   |DETAILS    |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
 | Paragraph   | Text        |
-
 -----
 -----
 |RADIO EQUIPMENT   |
