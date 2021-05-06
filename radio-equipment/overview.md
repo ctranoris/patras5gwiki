@@ -1,19 +1,10 @@
-<!-- TITLE: Overview -->
-<!-- SUBTITLE: A quick summary of Overview -->
+<!-- Radio Equipment -->
+<!-- Overview of the radio equipment used in Patars 5G facility.-->
 
 # Header
 
 
 
------
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
------
------
------
 | RADIO EQUIPMENT       || |
 | ----------- | ----------- | ----------- |
 | TYPE                | MODEL       |DETAILS       |
