@@ -14,7 +14,7 @@
 
 | Syntax      Description |||
 | ----------- | ----------- |
-| Header      | Title       |
+| TYPE      | MPDEL   |DETAILS    |
 | Paragraph   | Text        |
 
 |RADIO EQUIPMENT   |
