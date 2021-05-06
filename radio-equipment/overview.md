@@ -12,6 +12,11 @@
 | Paragraph   | Text        |
 
 
+| Syntax      Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 |RADIO EQUIPMENT   |
 
 |TYPE|MODEL|DETAILS|
