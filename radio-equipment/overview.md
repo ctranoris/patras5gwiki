@@ -4,7 +4,7 @@
 # Header
 
 |RADIO EQUIPMENT|
-|---|---|---|
+
 |TYPE|MODEL|DETAILS|
 gNodeB
 Amarisoft Classic 
