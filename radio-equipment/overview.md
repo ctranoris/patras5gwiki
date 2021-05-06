@@ -15,7 +15,7 @@
 -----
 -----
 | Syntax      Description |
-| ----------- | ----------- |
+| ----------- | ----------- |---|
 | TYPE      | MPDEL   |DETAILS    |
 | Paragraph   | Text        |
 
