@@ -15,3 +15,15 @@
 | Other Devices         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
 
 -----
+# Tabs {.tabset}
+## First Tab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+## Third Tab
+
+Any content here will go into the third tab...
