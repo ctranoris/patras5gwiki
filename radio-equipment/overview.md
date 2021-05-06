@@ -14,7 +14,7 @@
 -----
 -----
 -----
-| Syntax      | Description |
+| Syntax      | |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
