@@ -11,12 +11,16 @@
 | Header      | Title       |
 | Paragraph   | Text        |
 
-
-| Syntax      Description |||
+-----
+-----
+-----
+| Syntax      Description |
 | ----------- | ----------- |
 | TYPE      | MPDEL   |DETAILS    |
 | Paragraph   | Text        |
 
+-----
+-----
 |RADIO EQUIPMENT   |
 
 |TYPE|MODEL|DETAILS|
