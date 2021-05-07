@@ -19,9 +19,10 @@
 ## gNodeB {#gNodeB}
 
 Some General content regarding gNodeB...
-Amarisoft Classic
-LimeNET CrowdCell
-LimeNET
+#Available gNodeB
+##Amarisoft Classic
+##LimeNET CrowdCell
+##LimeNET
 LimeNET Mini
 ETUS N310
 ETUS B210
