@@ -19,13 +19,13 @@
 ## gNodeB {#gNodeB}
 
 Some General content regarding gNodeB...
-#Available gNodeB
-##Amarisoft Classic
-##LimeNET CrowdCell
-##LimeNET
-LimeNET Mini
-ETUS N310
-ETUS B210
+# Available gNodeB
+## Amarisoft Classic
+## LimeNET CrowdCell
+## LimeNET
+## LimeNET Mini
+## ETUS N310
+## ETUS B210
 
 
 ## User Equipment  {#ue}
