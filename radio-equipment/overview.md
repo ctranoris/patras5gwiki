@@ -98,6 +98,23 @@ Some General content regarding CPEs...
     - DL/UL: 250/40 Mbps (tested)
 
 ![Huawei Cpes](/uploads/images-radio-equipment/huawei-cpes.png "Huawei Cpes")
-## Other Devices {#other_devices}
+
+## Available Mobile Phones
+Some General content regarding Mobile phones...
+- Huawei P40 Pro
+- Oneplus NORD N10
+- RealMe x50
+- Xiaomi Redmi Note 9T 
+- Samsung Galaxy A90 
+
+
+
+## Huawei P40 Pro
+## Oneplus NORD N10
+## RealMe x50
+## Xiaomi Redmi Note 9T 
+## Samsung Galaxy A90 
+
+# Other Devices {#other_devices}
 
 Some General content regarding other devices....
