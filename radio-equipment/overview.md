@@ -15,11 +15,11 @@
 | [Other Devices](#other_devices)         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
 
 
-## gNodeB {#gNodeB}
+# Available gNodeBs {#gNodeB}
 
 Some General content regarding gNodeB...
-## Available gNodeBs
-### AMARI Callbox Classic.
+
+## AMARI Callbox Classic.
 
 
 
@@ -34,7 +34,7 @@ Some General content regarding gNodeB...
 ![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple") 
 
 
-### LimeNET CrowdCell
+## LimeNET CrowdCell
 - Allows for multiple cells configuration.
 - Supports 5G NR NSA mode. SA to be supported.
 - 2 2x2 MIMO SDRs
@@ -43,7 +43,7 @@ Some General content regarding gNodeB...
 - External use
 
 ![Limenet Crowd Cell](/uploads/images-radio-equipment/limenet-crowd-cell.png "Limenet Crowd Cell")
-### LimeNET
+## LimeNET
 - Allows for multiple cells configuration.
 - Supports LTE and NB-IoT
 - 2x2 MIMO SDR (PCI)
@@ -52,7 +52,7 @@ Some General content regarding gNodeB...
 
 ![Limenet](/uploads/images-radio-equipment/limenet.jpg "Limenet")
 
-### LimeNET Mini
+## LimeNET Mini
 - Allows for multiple cells configuration.
 - Supports LTE and NB-IoT
 - 2x2 MIMO SDR (USB)
@@ -62,7 +62,7 @@ Some General content regarding gNodeB...
 ![Limenet Mini](/uploads/images-radio-equipment/limenet-mini.jpg "Limenet Mini")
 
 
-### ETUS N310
+## ETUS N310
 - SDR
 - 4X4 MIMO
 - Up to 100MHz BW
