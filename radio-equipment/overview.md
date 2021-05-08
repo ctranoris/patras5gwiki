@@ -28,12 +28,11 @@ Some General content regarding gNodeB...
 -LTE and NB-Iot Capable
 -Internal use
 
+<img style="float: right;" src="/uploads/images-radio-equipment/amari-call-box-1.jpg ">
+
 ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box 1")
 <style>
-td, th {
-   border: none!important;
-}
-</style>
+
 
 | RADIO EQUIPMENT|                    |                   |
 | -----------------------| -------------| ----------- |
