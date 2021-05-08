@@ -20,8 +20,7 @@
 
 Some General content regarding gNodeB...
 ## Available gNodeBs
-### Amarisoft Classic
-AMARI Callbox Classic. 
+### AMARI Callbox Classic.
 -Allows for multiple cells configuration.
 -Supports both 5G NR NSA and SA mode.
 -3 2x2 MIMO SDRs
