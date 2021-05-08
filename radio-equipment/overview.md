@@ -41,7 +41,7 @@ td, th {
 |-------------|-------------|
 | Foo         | Bar         |
 
-
+| I am text to the left  | ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|
 
 ### LimeNET CrowdCell
 ### LimeNET
