@@ -1,4 +1,4 @@
-<!-- Radio Equipment -->
+ <!-- Radio Equipment -->
 <!-- Overview of the radio equipment used in Patars 5G facility.-->
 
 # Overview
@@ -41,7 +41,7 @@ td, th {
 |-------------|-------------|
 | Foo         | Bar         |
 
-| I am text to the left  | ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|
+| I am text to the left  | ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple") |
 
 ### LimeNET CrowdCell
 ### LimeNET
