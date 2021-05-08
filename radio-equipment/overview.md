@@ -42,12 +42,39 @@ Some General content regarding gNodeB...
 -4 antennas
 -Power amplifier
 -External use
+
 ![Limenet Crowd Cell](/uploads/images-radio-equipment/limenet-crowd-cell.png "Limenet Crowd Cell")
 ### LimeNET
-### LimeNET Mini
-### ETUS N310
-### ETUS B210
+-Allows for multiple cells configuration.
+-Supports LTE and NB-IoT
+-2x2 MIMO SDR (PCI)
+-4 antennas
+-External use
 
+![Limenet](/uploads/images-radio-equipment/limenet.jpg "Limenet")
+
+### LimeNET Mini
+-Allows for multiple cells configuration.
+-Supports LTE and NB-IoT
+-2x2 MIMO SDR (USB)
+-4 antennas
+-Internal use (mainly for NB-IoT)
+
+![Limenet Mini](/uploads/images-radio-equipment/limenet-mini.jpg "Limenet Mini")
+
+
+### ETUS N310
+-SDR
+-4X4 MIMO
+-Up to 100MHz BW
+
+![Etus N 310](/uploads/images-radio-equipment/etus-n-310.png "Etus N 310")
+### ETUS B210
+-SDR
+-2X2 MIMO
+-Up to 56MHz BW
+
+![Etus B 210](/uploads/images-radio-equipment/etus-b-210.jpg "Etus B 210")
 
 ## User Equipment  {#ue}
 
