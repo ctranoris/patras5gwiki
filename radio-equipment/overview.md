@@ -33,7 +33,12 @@ Some General content regarding gNodeB...
 
 | RADIO EQUIPMENT|                    |                   |
 | -----------------------| -------------| ----------- |
-
+|-Allows for multiple cells configuration.
+-Supports both 5G NR NSA and SA mode.
+-3 2x2 MIMO SDRs
+-UL/DL: 600/150 Mbps
+-LTE and NB-Iot Capable
+-Internal use|
 ### LimeNET CrowdCell
 ### LimeNET
 ### LimeNET Mini
