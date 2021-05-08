@@ -1,4 +1,4 @@
-![Huawei Cpes](/uploads/images-radio-equipment/huawei-cpes.png "Huawei Cpes") <!-- Radio Equipment -->
+<!-- Radio Equipment -->
 <!-- Overview of the radio equipment used in Patars 5G facility.-->
 
 # Overview
@@ -96,6 +96,7 @@ Some General content regarding CPEs...
     - DL/UL: 3600/250 Mbps (theoretical)
     - DL/UL: 250/40 Mbps (tested)
 
+![Huawei Cpes](/uploads/images-radio-equipment/huawei-cpes.png "Huawei Cpes")
 ## Other Devices {#other_devices}
 
 Some General content regarding other devices....
