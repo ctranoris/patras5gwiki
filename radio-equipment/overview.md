@@ -1,7 +1,7 @@
 <!-- Radio Equipment -->
 <!-- Overview of the radio equipment used in Patars 5G facility.-->
 
-# Header
+# Overview
 
 
 
@@ -19,8 +19,15 @@
 ## gNodeB {#gNodeB}
 
 Some General content regarding gNodeB...
-## Available gNodeB
+## Available gNodeBs
 ### Amarisoft Classic
+AMARI Callbox Classic. 
+-Allows for multiple cells configuration.
+-Supports both 5G NR NSA and SA mode.
+-3 2x2 MIMO SDRs
+-UL/DL: 600/150 Mbps
+-LTE and NB-Iot Capable
+-Internal use
 
 ### LimeNET CrowdCell
 ### LimeNET
