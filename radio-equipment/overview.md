@@ -15,7 +15,7 @@
 | [Other Devices](#other_devices)         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
 
 -----
-# Tabs {.tabset}
+# Radio Equipment {.tabset}
 ## gNodeB {#gNodeB}
 
 Some General content regarding gNodeB...
