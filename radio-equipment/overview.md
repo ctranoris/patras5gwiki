@@ -36,6 +36,13 @@ Some General content regarding gNodeB...
 
 
 ### LimeNET CrowdCell
+-Allows for multiple cells configuration.
+-Supports 5G NR NSA mode. SA to be supported.
+-2 2x2 MIMO SDRs
+-4 antennas
+-Power amplifier
+-External use
+![Limenet Crowd Cell](/uploads/images-radio-equipment/limenet-crowd-cell.png "Limenet Crowd Cell")
 ### LimeNET
 ### LimeNET Mini
 ### ETUS N310
