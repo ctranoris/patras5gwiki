@@ -75,11 +75,11 @@ Some General content regarding gNodeB...
 
 ![Etus B 210](/uploads/images-radio-equipment/etus-b-210.jpg "Etus B 210")
 
-## User Equipment  {#ue}
+# Available User Equipment  {#ue}
 Some General content regarding UEs...
-### Available CPEs
+## Available CPEs
 Some General content regarding CPEs...
-#### Huawei CPE Pro /Pro 2
+### Huawei CPE Pro /Pro 2
 
 - 4G
 - 5G (SA/NSA)
