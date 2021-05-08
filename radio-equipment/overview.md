@@ -14,8 +14,7 @@
 | [Mobile Phones](#ue)       |Huawei P40 Pro  <br>  Oneplus NORD N10 <br>Redmi Note 9T <br> Realme X50<br> Samsung A90  |SA <br> SA <br> NSA <br> ~~SA~~ <br> NSA  |
 | [Other Devices](#other_devices)         |SIM8200 M2   <br>Sodaq Sara M410 |SA <br> NB-IoT  |
 
------
-# Radio Equipment {.tabset}
+
 ## gNodeB {#gNodeB}
 
 Some General content regarding gNodeB...
