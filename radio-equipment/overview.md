@@ -29,7 +29,11 @@ Some General content regarding gNodeB...
 -Internal use
 
 ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box 1")
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | RADIO EQUIPMENT|                    |                   |
 | -----------------------| -------------| ----------- |
