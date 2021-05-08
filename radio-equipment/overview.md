@@ -27,11 +27,6 @@ Some General content regarding gNodeB...
 | -Allows for multiple cells configuration. <br>-Supports both 5G NR NSA and SA mode.<br>-3 2x2 MIMO SDRs<br>-UL/DL: 600/150 Mbps<br>-LTE and NB-Iot Capable<br>-Internal use | ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple") |
 
 
-|-Allows for multiple cells configuration.| ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple") |
- 
-|-Supports both 5G NR NSA and SA mode|
-<br><br>
-| ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single") | I am text to the right |![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box Single")|
 ### LimeNET CrowdCell
 ### LimeNET
 ### LimeNET Mini
