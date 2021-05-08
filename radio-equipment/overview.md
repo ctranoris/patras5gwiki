@@ -33,9 +33,7 @@ Some General content regarding gNodeB...
 
 | RADIO EQUIPMENT|                    |                   |
 | -----------------------| -------------| ----------- |
-|-Allows for multiple cells configuration. <br>
--Supports both 5G NR NSA and SA mode. <br>
--3 2x2 MIMO SDRs
+|-Allows for multiple cells configuration. <br>-Supports both 5G NR NSA and SA mode. <br>-3 2x2 MIMO SDRs
 -UL/DL: 600/150 Mbps
 -LTE and NB-Iot Capable
 -Internal use|
