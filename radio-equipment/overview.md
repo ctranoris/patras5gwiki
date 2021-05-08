@@ -32,6 +32,10 @@ Some General content regarding gNodeB...
 ![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple")
 
 
+table td {
+  border:none;
+}
+
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | Foo         | Bar         |
