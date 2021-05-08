@@ -31,6 +31,9 @@ Some General content regarding gNodeB...
 ![Amari Call Box 1](/uploads/images-radio-equipment/amari-call-box-1.jpg "Amari Call Box 1")
 
 
+| RADIO EQUIPMENT|                    |                   |
+| -----------------------| -------------| ----------- |
+
 ### LimeNET CrowdCell
 ### LimeNET
 ### LimeNET Mini
