@@ -78,9 +78,9 @@ Some General content regarding gNodeB...
 
 ## User Equipment  {#ue}
 Some General content regarding UEs...
-## Available CPEs
+### Available CPEs
 Some General content regarding CPEs...
-### Huawei CPE Pro /Pro 2
+#### Huawei CPE Pro /Pro 2
 
 - 4G
 - 5G (SA/NSA)
