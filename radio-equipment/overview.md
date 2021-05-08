@@ -79,7 +79,9 @@ Some General content regarding gNodeB...
 Some General content regarding UEs...
 ## Available CPEs
 Some General content regarding CPEs...
-### Huawei CPE Pro /Pro 2
+- Huawei CPE Pro 
+- Huawei CPE Pro2
+## Huawei CPE Pro /Pro 2
 
 - 4G
 - 5G (SA/NSA)
