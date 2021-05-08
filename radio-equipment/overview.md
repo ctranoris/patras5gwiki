@@ -1,4 +1,4 @@
- <!-- Radio Equipment -->
+![Huawei Cpes](/uploads/images-radio-equipment/huawei-cpes.png "Huawei Cpes") <!-- Radio Equipment -->
 <!-- Overview of the radio equipment used in Patars 5G facility.-->
 
 # Overview
