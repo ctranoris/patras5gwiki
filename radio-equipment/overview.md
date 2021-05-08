@@ -77,8 +77,24 @@ Some General content regarding gNodeB...
 ![Etus B 210](/uploads/images-radio-equipment/etus-b-210.jpg "Etus B 210")
 
 ## User Equipment  {#ue}
-
 Some General content regarding UEs...
+## Available CPEs
+Some General content regarding CPEs...
+### Huawei CPE Pro /Pro 2
+
+-4G
+-5G (SA/NSA)
+-WiFi
+-Ethernet
+-Balong 5000 chipset
+-Pro
+--NSA/SA
+--DL/UL: 2300/150 Mbps (theoretical)
+--DL/UL: 300/40 Mbps (tested)
+-Pro 2
+--NSA
+--DL/UL: 3600/250 Mbps (theoretical)
+--DL/UL: 250/40 Mbps (tested)
 
 ## Other Devices {#other_devices}
 
