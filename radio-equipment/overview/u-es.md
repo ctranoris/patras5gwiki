@@ -1,4 +1,4 @@
-<!-- TITLE: U Es -->
+<!-- TITLE: User Equipment Devices -->
 <!-- SUBTITLE: A quick summary of U Es -->
 
 # Available User Equipment  {#ue}
