@@ -20,6 +20,4 @@
 - 2X2 MIMO
 - Up to 56MHz BW
 - UE
-
-![B 205 Mini I Top Large 2](/uploads/images-radio-equipment/b-205-mini-i-top-large-2.jpg "B 205 Mini I Top Large 2")
 <img src="/uploads/images-radio-equipment/b-205-mini-i-top-large-2.jpg" width="400">
