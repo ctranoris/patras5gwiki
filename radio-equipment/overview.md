@@ -110,10 +110,35 @@ Some General content regarding Mobile phones...
 
 
 ## Huawei P40 Pro
+
+- Android phone
+- Kirin 990 5G chipset
+- DL/UL: 325/38 Mbps (tested)
+- SA
+
 ## Oneplus NORD N10
+
+- Android phone
+- Qualcomm SM 6350 chipset
+- DL/UL: 98/22 Mbps (tested)
+
 ## RealMe x50
+
+- Android phone
+- Qualcomm SM 6350 chipset
+
 ## Xiaomi Redmi Note 9T 
+- Android phone
+- Mediatec 800U 5G chipset
+- NSA
+
 ## Samsung Galaxy A90 
+
+- Android phone
+- SDM855 Snapdragon 855 chipset
+- NSA
+- DL/UL: 200/25 Mbps (tested)
+
 
 # Other Devices {#other_devices}
 
