@@ -3,7 +3,7 @@
 
 # Available gNodeBs {#gNodeB}
 
-Some General content regarding gNodeB...
+GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive communications between the user equipment and the mobile network.
 
 ## AMARI Callbox Classic.
 
