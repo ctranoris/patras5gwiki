@@ -1,7 +1,5 @@
-<!-- TITLE: G Node Bs -->
+<!-- TITLE: gNodeBs -->
 <!-- SUBTITLE: A quick summary of G Node Bs -->
-
-# Header
 
 # Available gNodeBs {#gNodeB}
 
