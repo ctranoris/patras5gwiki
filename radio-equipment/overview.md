@@ -17,7 +17,7 @@
 
 # Available gNodeBs {#gNodeB}
 
-Some General content regarding gNodeB...
+GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive communications between the user equipment and the mobile network.
 
 ## AMARI Callbox Classic.
 
@@ -76,7 +76,7 @@ Some General content regarding gNodeB...
 ![Etus B 210](/uploads/images-radio-equipment/etus-b-210.jpg "Etus B 210")
 
 # Available User Equipment  {#ue}
-Some General content regarding UEs...
+A subscriber’s mobile device, such as a cell phone, tablet, or modem. 
 ## Available CPEs
 Some General content regarding CPEs...
 - Huawei CPE Pro 
