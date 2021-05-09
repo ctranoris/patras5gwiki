@@ -3,7 +3,6 @@
 
 # Radio equipment at Patras5G
 
-[Radio equipment](radio-equipment/overview)
 
 The following is a list of the 5G capable devices available for testing in Patras 5G facility.
 For more information please visit [Radio equipment Overview](radio-equipment/overview).
