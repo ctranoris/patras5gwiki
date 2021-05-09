@@ -148,7 +148,7 @@ Some General content regarding Mobile phones...
 
 # Other Devices {#other_devices}
 
-Besides the standard UEs some other equipment is also available for specific tasks.
+Some General content regarding other devices....
 ## SIM8200-m2
 - HAT for raspberry pi
 - 3G/4G/5G
