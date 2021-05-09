@@ -67,7 +67,7 @@ Check in this page some KPIs: [Patras5G-KPIs](Patras5G-KPIs)
 
 Read more:
 [Architecture and Components of the Patras/Greece Facility Site](architecture-and-components-)
-[Radio equipment](radio-equipment/overview)
+[Radio equipment](radio-equipment)
 [Available gNodeBs](radio-equipment/g-node-bs)
 [Available UEs](radio-equipment/u-es)
 [Other Devices](radio-equipment/other-devices)
