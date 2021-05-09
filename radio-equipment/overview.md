@@ -68,7 +68,7 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 - Up to 100MHz BW
 
 ![Etus N 310](/uploads/images-radio-equipment/etus-n-310.png "Etus N 310")
-### ETUS B210
+## ETUS B210
 - SDR
 - 2X2 MIMO
 - Up to 56MHz BW
