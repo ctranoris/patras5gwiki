@@ -116,22 +116,26 @@ Some General content regarding Mobile phones...
 - DL/UL: 325/38 Mbps (tested)
 - SA
 
+![Huawei P 40 Pro](/uploads/images-radio-equipment/huawei-p-40-pro.jpg "Huawei P 40 Pro")
 ## Oneplus NORD N10
 
 - Android phone
 - Qualcomm SM 6350 chipset
 - DL/UL: 98/22 Mbps (tested)
 
+![Oneplus Nord N 10](/uploads/images-radio-equipment/oneplus-nord-n-10.jpg "Oneplus Nord N 10")
 ## RealMe x50
 
 - Android phone
 - Qualcomm SM 6350 chipset
 
+![Realme X 50](/uploads/images-radio-equipment/realme-x-50.jpg "Realme X 50")
 ## Xiaomi Redmi Note 9T 
 - Android phone
 - Mediatec 800U 5G chipset
 - NSA
 
+![Xiaomi Redmi Note 9 T](/uploads/images-radio-equipment/xiaomi-redmi-note-9-t.jpg "Xiaomi Redmi Note 9 T")
 ## Samsung Galaxy A90 
 
 - Android phone
@@ -139,7 +143,25 @@ Some General content regarding Mobile phones...
 - NSA
 - DL/UL: 200/25 Mbps (tested)
 
+![Samsung Galaxy A 90](/uploads/images-radio-equipment/samsung-galaxy-a-90.jpg "Samsung Galaxy A 90")
+
 
 # Other Devices {#other_devices}
 
 Some General content regarding other devices....
+## SIM8200-m2
+- HAT for raspberry pi
+- 3G/4G/5G
+- Snapdragon X55 chipset
+- SA
+- DL/UL: 120/40 Mbps (tested)
+
+![Sim 800](/uploads/images-radio-equipment/sim-800.jpg "Sim 800")
+## Sodaq SARA
+- Arduino Based
+- NB-IoT 
+- Ublox chipset
+- GPS
+- Temperature/Humidity Sensors
+
+![Sodaq Sara](/uploads/images-radio-equipment/sodaq-sara.jpg "Sodaq Sara")
