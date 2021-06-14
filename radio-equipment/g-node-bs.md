@@ -26,7 +26,7 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 - 2 2x2 MIMO SDRs
 - 4 antennas
 - Power amplifier
-- External use
+- External use. Installed at ECE building roof
 
 ![Limenet Crowd Cell](/uploads/images-radio-equipment/limenet-crowd-cell.png "Limenet Crowd Cell")
 ## LimeNET
