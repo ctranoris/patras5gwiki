@@ -20,9 +20,9 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 ![Amari Call Box 3](/uploads/images-radio-equipment/amari-call-box-3.jpg "Amari Call Box Multiple") 
 
 
-## LimeNET CrowdCell
+## LimeNET 5G CrowdCell
 - Allows for multiple cells configuration.
-- Supports 5G NR NSA mode. SA to be supported.
+- Supports 5G NR SA mode
 - 2 2x2 MIMO SDRs
 - 4 antennas
 - Power amplifier
