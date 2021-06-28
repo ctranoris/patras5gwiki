@@ -97,10 +97,13 @@ the following are the preliminary coverage plans of the facility
 
 
 ##  Patras5G University Campus coverage area
-The followign show the locatin of the
-
+The followign show a birds eye view of the campues with the location of the equipment and the testing area marked.
 ![Coverage 1](/uploads/images/coverage-1.png "Coverage 1")
-![Coverage 1](/uploads/images/coverage-2.png "Coverage 2")
+
+This image shows the various points around the campous were actual measurements were taken with mobile devices.
+
+![Coverage 2](/uploads/images/coverage-2.png "Coverage 2")
+
 
 ## The wider area of Patras city and Western Region
 
