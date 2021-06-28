@@ -96,7 +96,8 @@ the following are the preliminary coverage plans of the facility
 <img src="/uploads/images/patras-areaplansslide-3.png" width="1024">
 
 
-
+##  Patras5G University Campus coverage area
+The followign show the locatin of the 
 ## The wider area of Patras city and Western Region
 
 In Patras/Greece facility there will be Outdoor base stations to provide 5G and IoT coverage at locations of interest (where ICT19 vertical pilots will be enabled) both in the Patras campus and in the wider areas (see following two figures).
