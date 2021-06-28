@@ -101,6 +101,7 @@ The followign show a birds eye view of the campues with the location of the equi
 ![Coverage 1](/uploads/images/coverage-1.png "Coverage 1")
 
 This image shows the various points around the campous were actual measurements were taken with mobile devices.
+The measuremenets are then stored along with other data like coordinates and can be retrieved to be shown on live interactive maps. (Link: TBD)
 
 ![Coverage 2](/uploads/images/coverage-2.png "Coverage 2")
 
