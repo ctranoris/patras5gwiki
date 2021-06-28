@@ -97,9 +97,11 @@ the following are the preliminary coverage plans of the facility
 
 
 ##  Patras5G University Campus coverage area
+### Testing Area
 The followign show a birds eye view of the campues with the location of the equipment and the testing area marked.
 ![Coverage 1](/uploads/images/coverage-1.png "Coverage 1")
 
+### Measurement points
 This image shows the various points around the campous were actual measurements were taken with mobile devices.
 The measuremenets are then stored along with other data like coordinates and can be retrieved to be shown on live interactive maps. (Link: TBD)
 
