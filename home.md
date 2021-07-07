@@ -1,6 +1,8 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Welcome to Patras 5G Wiki -->
 
+
+<img src="/uploads/patras-5-g-logo.png" width="320">
 # Patras 5G wiki
 
 **The Patras 5G facility is an "isolated" Non-public Network for 5G and IoT applications.**
