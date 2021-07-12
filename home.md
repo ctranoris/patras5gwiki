@@ -26,6 +26,12 @@ In Greece facility site the following tasks are performed:
 5G-VINNI Patras Facility [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
 
 
+## News
+
+Check out our social media pages: https://www.linkedin.com/company/74512910/admin/
+
+
+
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
 
 <img src="/uploads/onboarding-overview.png" width="1024">
