@@ -9,6 +9,8 @@
 Patras 5G Autonomous Edge, is a mobile box, ideal for on-premise 5G deployments , containing everything from the 5G New Radio and 5G Core, Network and Service Orchestrations including a Virtualized environment based on Openstack!
 
 <img src="/uploads/radio-equipment/20210713-091758.jpg" width="400">
+
+
 ## Features
 
 ### Hardware
