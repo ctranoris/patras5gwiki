@@ -131,8 +131,9 @@ Moreover, in the wider area of Patras city and Western Region (shown in the next
 
 
 ## Contact
+Send an email to <b>info at patras5g.eu</b>
 
-See http://nam.ece.upatras.gr
+or see http://nam.ece.upatras.gr
 
 -----
 ![Eu Flag](/uploads/images/eu-flag.png "Eu Flag")
