@@ -31,7 +31,7 @@ Further, ICOM’s FWA solutions will be used to provide broadband access to publ
 
 Within the project ICOM will add support for SDN-based network slicing to the wireless backhaul and FWA network segments..
 
- ![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-02.png "Pilaradmhe 02")
+<img src="/uploads/radio-equipment/pilaradmhe-02.png" width="1024">
  ![Img 20200506 16392](/uploads/radio-equipment/img-20200506-16392.jpg "Img 20200506 16392")
 
 ### Core 5G /IoT services
