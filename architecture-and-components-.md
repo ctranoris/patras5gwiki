@@ -25,12 +25,13 @@ SRS will integrate its software suite into the LimeMicro SDR hardware platform a
 
 ### Backhaul
 
-ICOM will provide to the Greek facility state-of-the-art mmWave backhaul and Fixed Wireless Access (FWA) solutions. The UltraLink™-GX80 all-outdoor mmWave PtP Ethernet radio at 70/80 GHz (E-Band), that provides a 10 Gbps backhaul capacity, will be used to interconnect the g/eNBs with the core network and the data centre at the UoP premises.
+ICOM  provides to the Greek facility state-of-the-art mmWave backhaul and Fixed Wireless Access (FWA) solutions. The UltraLink™-GX80 all-outdoor mmWave PtP Ethernet radio at 70/80 GHz (E-Band), that provides a 10 Gbps backhaul capacity, will be used to interconnect the g/eNBs with the core network and the data centre at the UoP premises.
 
 Further, ICOM’s FWA solutions will be used to provide broadband access to public organisations’ sites (e.g. University Campus, City Hall, etc.) in the city. The WiBAS™ OSDR PtMP all-outdoor radio, as it has been enhanced to provide >1.5 Gbps aggregate sector capacity and < 1 ms latency  through the phase 1 project SPEED-5G, will be used.
 
 Within the project ICOM will add support for SDN-based network slicing to the wireless backhaul and FWA network segments..
 
+ ![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-02.png "Pilaradmhe 02")
  
 
 ### Core 5G /IoT services
