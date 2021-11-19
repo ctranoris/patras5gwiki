@@ -23,6 +23,14 @@ LimeMicro’s hardware will be used for both handset and base station. LimeMicro
 
 SRS will integrate its software suite into the LimeMicro SDR hardware platform as well as interworking with the Fraunhofer open5Gcore will be assured.  SRS will provide a set of selected 5G NR features for srsLTE that will be available for KPI validation within the project. SRS will extend their code base for both UE and (g/e)NB to support the 5G NR scalable numerology for configurable subcarrier spacings, integrate the new channel coding, and higher order modulation types supported by 5G. This work will serve as a proof-of-concept and feasibility study of a SDR-based 5G NR implementation. We are intending to adopt the non-standalone (NSA) mode for 5G NR in which a NR gNB will provide user-plane traffic services for a NR-capable UE to a master 4G eNB.
 
+See more:
+
+[Radio equipment](radio-equipment)
+[Available gNodeBs](radio-equipment/g-node-bs)
+[Available UEs](radio-equipment/u-es)
+[Other Devices](radio-equipment/other-devices)
+
+
 ### Backhaul
 
 ICOM  provides to the Greek facility state-of-the-art mmWave backhaul and Fixed Wireless Access (FWA) solutions. The UltraLink™-GX80 all-outdoor mmWave PtP Ethernet radio at 70/80 GHz (E-Band), that provides a 10 Gbps backhaul capacity, will be used to interconnect the g/eNBs with the core network and the data centre at the UoP premises.
