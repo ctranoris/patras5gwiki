@@ -34,7 +34,7 @@ Check out our social media pages: https://www.linkedin.com/company/74512910/admi
 
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
 
-<img src="/uploads/onboarding-overview.png" width="1024">
+<img src="/uploads/images/architecturev-1-1.png" width="1024">
 
 **Summary of capabilities**
 With our OSS, NFV and experimentation enabled services, like Openslice and Open Source MANO, we enable E2E automated deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network. Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 300 CPUs and 1TB of RAM and 50 TB of storage. 10GbE NICs DPDK enabled are also available. Patras 5G provides 5G standard-conformant components and Core Network infrastructure and Integration of 5G Core and 5G RAN with our Opensource based NFV platform.  We support various flavors and installations of the 5G System, that are both NSA and SA depending on the scenarios that the customer 
