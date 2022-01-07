@@ -10,3 +10,7 @@ FWA/PtMP deployment in the Patras 5G facility site, consisted of one Central Sta
 
 
 ![Fwa Fig 2](/uploads/images-radio-equipment/fwa-fig-2.png "Fwa Fig 2")
+
+
+Terminal Stations can be deployed (and re-packed) in a matter of minutes, and the whole FWA/PtMP infrastructure is a portable and very fast and convenient way to extend the coverage of the transport network, in a range of up to several hundred meters. These features of FWA/PtMP transport, provide an easy and flexible way of expanding connectivity, at any direction, between permanent backhauling infrastructures and gNBs.
+
