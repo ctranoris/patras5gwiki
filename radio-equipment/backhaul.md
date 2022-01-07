@@ -17,4 +17,6 @@ Another location in ADMHE, Rion, 4 kms away from the university
 
 ![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-02.png "Pilaradmhe 02")
 
+
+
 Next location is 
