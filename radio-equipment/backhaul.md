@@ -5,18 +5,18 @@
 Our facility is interconnected with various locations in the area of Patras via 10Gbs wireless backhaul links.
 
 
-![Patras Area](/uploads/images/patras-areaplansslide-2.png  "Patras Area")
+
+<img src="/uploads/images/patras-areaplansslide-2.png" width="1024">
 
 The following is a node on the roof of our Building:
 
-![img-20200506-16392.jpg](/uploads/radio-equipment/img-20200506-16392.jpg "img-20200506-16392.jpg")
+<img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="1024">
 
 Another location in ADMHE, Rion, 4 kms away from the university
 
-![Pilaradmhe 01](/uploads/radio-equipment/pilaradmhe-01.png "Pilaradmhe 01")
-
-![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-02.png "Pilaradmhe 02")
-
+<img src="/uploads/radio-equipment/pilaradmhe-01.png" width="1024">
+<img src="/uploads/radio-equipment/pilaradmhe-02.png" width="1024">
 
 
-Next location is 
+
+Next location is at Dasyllion, ERT
