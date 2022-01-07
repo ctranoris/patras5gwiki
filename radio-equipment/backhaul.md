@@ -4,6 +4,9 @@
 # Backhaul
 Our facility is interconnected with various locations in the area of Patras via 10Gbs wireless backhaul links.
 
+
+![Patras Area](/uploads/images/patras-areaplansslide-2.png  "Patras Area")
+
 The following is a node on the roof of our Building:
 
 ![img-20200506-16392.jpg](/uploads/radio-equipment/img-20200506-16392.jpg "img-20200506-16392.jpg")
