@@ -6,16 +6,16 @@ Our facility is interconnected with various locations in the area of Patras via 
 
 
 
-<img src="/uploads/images/patras-areaplansslide-2.png" width="1024">
+<img src="/uploads/images/patras-areaplansslide-2.png" width="800">
 
 The following is a node on the roof of our Building:
 
-<img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="1024">
+<img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="400">
 
 Another location in ADMHE, Rion, 4 kms away from the university
 
-<img src="/uploads/radio-equipment/pilaradmhe-01.png" width="1024">
-<img src="/uploads/radio-equipment/pilaradmhe-02.png" width="1024">
+<img src="/uploads/radio-equipment/pilaradmhe-01.png" width="800">
+<img src="/uploads/radio-equipment/pilaradmhe-02.png" width="800">
 
 
 
