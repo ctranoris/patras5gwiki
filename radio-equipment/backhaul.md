@@ -4,4 +4,4 @@
 # Backhaul
 
 ![Pilaradmhe 01](/uploads/radio-equipment/pilaradmhe-01.png "Pilaradmhe 01")
-![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-01.png "Pilaradmhe 02")
+![Pilaradmhe 02](/uploads/radio-equipment/pilaradmhe-02.png "Pilaradmhe 02")
