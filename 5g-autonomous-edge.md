@@ -28,7 +28,7 @@ Patras 5G Autonomous Edge, is a mobile box, ideal for on-premise 5G deployments 
 - Ubuntu 18.04
 - Openstack Stein
 - Kubernetes cluster in Openstack
-- 
+ 
 ### Network Orchestration
 
 - OSM (Open Source Mano)
