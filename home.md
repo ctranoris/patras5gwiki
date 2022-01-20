@@ -23,7 +23,7 @@ In Patras5G site the following tasks are performed:
 ## Demo videos
 
 
- <iframe width="640" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1">
+ <iframe width="640" height="315" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1">
 </iframe> 
 
 5G end-to-end experimentation: From Service Order to Network Monitoring Service https://www.youtube.com/watch?v=X662lml0p8w
