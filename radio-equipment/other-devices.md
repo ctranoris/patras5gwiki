@@ -13,8 +13,7 @@ Besides the standard UEs some other equipment is also available for specific tas
 
 
 
- <iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkBKhYaHqPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
