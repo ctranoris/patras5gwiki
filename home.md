@@ -150,7 +150,7 @@ Moreover, in the wider area of Patras city and Western Region (shown in the next
 
 ## Participating research projects
 
-
+![Projects](/uploads/images/projects.png "Projects")
 
 ## Contact
 Send an email to <b>info at patras5g.eu</b>
