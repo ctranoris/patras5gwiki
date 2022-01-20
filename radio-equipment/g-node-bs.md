@@ -7,7 +7,7 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 
 ## AW2S
 
-<img src="/uploads/radio-equipment/20220120-141756.jpg" ><img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="400">
+<img src="/uploads/radio-equipment/20220120-141756.jpg" ><img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="120">
 
 
 ## AMARI Callbox Classic.
