@@ -153,7 +153,7 @@ or see http://nam.ece.upatras.gr
 Patras5G  has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreements:
 * 5GinFIRE n° 732497
 * 5G-VINNI  n° 815279 
-* 5G-SOLUTIONS n° 732497
-* 5G-VICTORI n° 732497
-* 5G-ASP n° 732497
-* 5G-INDUCE n° 732497
+* 5G-SOLUTIONS n° 856691
+* 5G-VICTORI n° 857201
+* 5GASP n° 101016448
+* 5G-INDUCE n° 101016941
