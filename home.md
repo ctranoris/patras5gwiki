@@ -105,22 +105,20 @@ Read more:
 ## The Patras5G coverage area
 the following are the preliminary coverage plans of the facility
 
-<img src="/uploads/images/patras-areaplansslide-1.png" width="1024">
-<img src="/uploads/images/patras-areaplansslide-2.png" width="1024">
-<img src="/uploads/images/patras-areaplansslide-3.png" width="1024">
+<img src="/uploads/images/patras-areaplansslide-1.png" width="640"><img src="/uploads/images/patras-areaplansslide-2.png" width="640"><img src="/uploads/images/patras-areaplansslide-3.png" width="640">
 
 
 ##  Patras5G University Campus coverage area
 ### Testing Area
 The followign show a birds eye view of the campues with the location of the equipment and the testing area marked.
 
-<img src="/uploads/images/coverage-1.png" width="1024">
+<img src="/uploads/images/coverage-1.png" width="640">
 
 ### Measurement points
 This image shows the various points around the campous were actual measurements were taken with mobile devices.
 The measuremenets are then stored along with other data like coordinates and can be retrieved to be shown on live interactive maps. (Link: TBD)
 
-<img src="/uploads/images/coverage-2.png" width="1024">
+<img src="/uploads/images/coverage-2.png" width="640">
 
 
 ## The wider area of Patras city and Western Region
@@ -128,11 +126,11 @@ The measuremenets are then stored along with other data like coordinates and can
 In Patras/Greece facility there will be Outdoor base stations to provide 5G and IoT coverage at locations of interest (where ICT19 vertical pilots will be enabled) both in the Patras campus and in the wider areas (see following two figures).
 
 Next figure presents the campus area of the Patras main facility, which includes the largest hospital of western Greece as well as the Patras Science Park and Innohub that host many companies, organizations and technology start-ups. Outdoor base stations will be deployed across the main campus road (bold straight line in the figure) that leads to the hospital as well as other departments. To this end, a wide range of vertical scenarios could be hosted ranging from eHealth to automotive.
-<img src="/uploads/images/patras-innohub.png" width="1024">
+<img src="/uploads/images/patras-innohub.png" width="640">
 
 
 Moreover, in the wider area of Patras city and Western Region (shown in the next figure) we depict key vertical industries and stakeholders that could be involved in potential vertical pilots. Some of these verticals that could be enabled are Sea ports, Smart agriculture and fish farming, smart city and critical infrastructures e.g. bridges and public buildings. These areas will be reached by either Intracom Telecom backhauling technology or Patras Optical MAN in order to be interconnected with the back end of the Patras facility and corresponding computational and communication resources.
-<img src="/uploads/images/patras-area-map.png" width="1024">
+<img src="/uploads/images/patras-area-map.png" width="640">
 
 
 ## Benefits
