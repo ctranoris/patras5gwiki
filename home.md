@@ -151,4 +151,10 @@ or see http://nam.ece.upatras.gr
 
 -----
 ![Eu Flag](/uploads/images/eu-flag.png "Eu Flag")
-Patras5G  has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreement n° 732497
+Patras5G  has received funding from the European Horizon 2020 Programme for research, technological development and demonstration under grant agreements:
+* 5GinFIRE n° 732497
+* 5G-VINNI  n° 815279 
+* 5G-SOLUTIONS n° 732497
+* 5G-VICTORI n° 732497
+* 5G-ASP n° 732497
+* 5G-INDUCE n° 732497
