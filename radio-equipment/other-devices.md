@@ -13,9 +13,7 @@ Besides the standard UEs some other equipment is also available for specific tas
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DkBKhYaHqPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkBKhYaHqPg?start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## SIM8200-m2
 - HAT for raspberry pi
