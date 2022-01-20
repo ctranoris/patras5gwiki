@@ -66,6 +66,15 @@ The Patras Facility site portal is based on Openslice (http://openslice.io) a pr
 Openslice thus support both APIs for programmable access to the infrastructure as well as a web portal for user friendly access.
 
 
+## Benefits
+
+* Equipment Vendors: can participate in testbed construction and operations, satisfy the requirement to show interoperability at the neutral “playgrounds,” especially before the formal standardization. Enable collaboration with the vendors and supplier community
+* Network Operators: Agile development cycles and easy evaluation of technologies.
+* Standardization Bodies: Evaluate and compare ideas
+* Academia: Researchers rely on experimentation for technology development and performance evaluation.
+* Innovators: The can use it as a  playgrounds with minimal cost
+* Open-source Communities: Develop features and capabilities, test, evaluate and compare ideas and technologies from other vendors
+
 
 ## Experimentation Process
 
@@ -133,14 +142,6 @@ Moreover, in the wider area of Patras city and Western Region (shown in the next
 <img src="/uploads/images/patras-area-map.png" width="640">
 
 
-## Benefits
-
-* Equipment Vendors: can participate in testbed construction and operations, satisfy the requirement to show interoperability at the neutral “playgrounds,” especially before the formal standardization. Enable collaboration with the vendors and supplier community
-* Network Operators: Agile development cycles and easy evaluation of technologies.
-* Standardization Bodies: Evaluate and compare ideas
-* Academia: Researchers rely on experimentation for technology development and performance evaluation.
-* Innovators: The can use it as a  playgrounds with minimal cost
-* Open-source Communities: Develop features and capabilities, test, evaluate and compare ideas and technologies from other vendors
 
 ## Contact
 Send an email to <b>info at patras5g.eu</b>
