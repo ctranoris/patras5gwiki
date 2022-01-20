@@ -9,6 +9,7 @@
 
 **The Patras 5G facility is an "isolated" Non-public Network for 5G and IoT applications.**
 
+* We offfer for testing and experiementation a private 5G Network, working on licensed and unlicensed spectrum, with our own SIM cards.
 * We provide 5G standard-conformant components and Core Network infrastructure 
 * mmWave backhaul is installed to various locations in the city of Patras to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
 * Integration of various open source and commercial 5G Cores with  SDR platforms and UEs and g/eNB
