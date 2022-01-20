@@ -12,6 +12,12 @@ Besides the standard UEs some other equipment is also available for specific tas
 4 small remotely teleoperated robotic platforms are available. They are 3D printed based on Intel's Openbot platform they can host a 5G mobile phone which host software to remotely operate them over the 5G network.
 
 
+
+ <iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1">
+</iframe> 
+
+
+
 ## SIM8200-m2
 - HAT for raspberry pi
 - 3G/4G/5G
