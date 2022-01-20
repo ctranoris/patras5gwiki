@@ -10,8 +10,8 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 <img src="/uploads/radio-equipment/20220120-141756.jpg" ><img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="240">
 <img src="/uploads/images/aw-2-s-1.png" width="420">
 
-* Configuration: 4x4 Frequency Band N78 3400-3800MHz
-* Mode: TDD Operating BW up 100MHz
+* Configuration: RRH 4x4 Frequency Band N78 3400-3800MHz
+* Mode: TDD Operating BW up to 100MHz
 * Power per antenna: >=2W Power supply -48V
 * Interface CPRI
 * Control and Management ORI
