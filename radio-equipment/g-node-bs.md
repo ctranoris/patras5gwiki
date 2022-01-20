@@ -35,7 +35,6 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 ![Limenet Crowd Cell](/uploads/images-radio-equipment/limenet-crowd-cell.png "Limenet Crowd Cell")
 
 
-<img src="/uploads/images-radio-equipment/image-2021-09-09-t-10-46-12-712-z.png" width="400">
 <img src="/uploads/radio-equipment/20210713-091758.jpg" width="400">
 
 
