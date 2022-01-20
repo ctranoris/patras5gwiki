@@ -5,9 +5,12 @@
 
 GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive communications between the user equipment and the mobile network.
 
+## AW2S
+
+![20220120 141756](/uploads/radio-equipment/20220120-141756.jpg "20220120 141756")
+![Img 20200506 16392](/uploads/radio-equipment/img-20200506-16392.jpg "Img 20200506 16392")
+
 ## AMARI Callbox Classic.
-
-
 
  - Allows for multiple cells configuration. 
  - Supports both 5G NR NSA and SA mode.
