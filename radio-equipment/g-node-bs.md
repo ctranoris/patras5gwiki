@@ -8,7 +8,19 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 ## AW2S
 
 <img src="/uploads/radio-equipment/20220120-141756.jpg" ><img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="240">
+![Aw 2 S 1](/uploads/images/aw-2-s-1.png "Aw 2 S 1")
 
+* Configuration: 4x4 Frequency Band N78 3400-3800MHz
+* Mode: TDD Operating BW up 100MHz
+* Power per antenna: >=2W Power supply -48V
+* Interface CPRI
+* Control and Management ORI
+
+RRU unit is connected through fiber (CPRI) to 1 gNodeB composed of :
+- X86 server
+- AW2S PCIe to CPRI interface board
+- AW2S Drivers for RRU Control and management
+- Amarisoft 5G stack software and Core *
 
 ## AMARI Callbox Classic.
 
