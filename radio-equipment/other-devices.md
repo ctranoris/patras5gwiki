@@ -4,6 +4,12 @@
 # Other Devices {#other_devices}
 
 Besides the standard UEs some other equipment is also available for specific tasks.
+
+## 4 small robotic platforms
+![20220119 171610](/uploads/radio-equipment/20220119-171610.jpg "20220119 171610")
+
+
+
 ## SIM8200-m2
 - HAT for raspberry pi
 - 3G/4G/5G
