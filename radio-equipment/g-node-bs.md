@@ -8,7 +8,7 @@ GNodeBs (gNBs) are the 5G wireless base stations that transmit and receive commu
 ## AW2S
 
 <img src="/uploads/radio-equipment/20220120-141756.jpg" ><img src="/uploads/radio-equipment/img-20200506-16392.jpg" width="240">
-![Aw 2 S 1](/uploads/images/aw-2-s-1.png "Aw 2 S 1")
+<img src="/uploads/images/aw-2-s-1.png" width="420">
 
 * Configuration: 4x4 Frequency Band N78 3400-3800MHz
 * Mode: TDD Operating BW up 100MHz
