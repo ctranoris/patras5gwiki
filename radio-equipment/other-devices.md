@@ -13,10 +13,13 @@ Besides the standard UEs some other equipment is also available for specific tas
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1&start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+<br/>
 
 
 <img src="/uploads/radio-equipment/20220119-171610.jpg" width="640">
+<br/>
 <img src="/uploads/radio-equipment/20220119-171723.jpg" width="640">
+<br/>
 <img src="/uploads/radio-equipment/20210701-113316.png" width="640">
 
 
