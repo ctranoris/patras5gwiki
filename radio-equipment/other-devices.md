@@ -6,9 +6,8 @@
 Besides the standard UEs some other equipment is also available for specific tasks.
 
 ## 4 small robotic platforms
-![20220119 171610](/uploads/radio-equipment/20220119-171610.jpg "20220119 171610")
 
-![20220119 171723](/uploads/radio-equipment/20220119-171723.jpg "20220119 171723")
+<img src="/uploads/images/radio-equipment/20220119-171610.jpg" width="800"><img src="/uploads/images/radio-equipment/20220119-171723.jpg" width="800">
 
 ## SIM8200-m2
 - HAT for raspberry pi
