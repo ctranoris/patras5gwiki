@@ -53,7 +53,8 @@ Some General content regarding Mobile phones...
 ## RealMe x50
 
 - Android phone
-- Qualcomm SM 6350 chipset
+- Model RMX2144
+- Qualcomm SDM765G 5G Octa Core
 
 ![Realme X 50](/uploads/images-radio-equipment/realme-x-50.jpg "Realme X 50")
 ## Xiaomi Redmi Note 9T 
