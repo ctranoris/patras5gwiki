@@ -15,7 +15,7 @@
 * Integration of various open source and commercial 5G Cores with  SDR platforms and UEs and g/eNB
 * Enabling the E2E deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network.
 * Supporting MEC orchestration and mobility management features for the support of interactive mobile streaming edge services.
-* We have an Academic License from the Greek goverment on the licenced spectrum.
+* We have an Academic License from the Greek government on the licensed spectrum.
 
 Most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. 
 Numerous partners have deployed their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
