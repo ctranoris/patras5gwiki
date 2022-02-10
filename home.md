@@ -45,6 +45,8 @@ With our OSS, NFV and experimentation enabled services, like Openslice and Open 
 
 Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 450 CPUs and 1,5 TB of RAM and 50 TB of storage. All servers are interconnected on TOR 10GbE/40GbE NVIDIA Cumulus switches with dual 10GbE NICs DPDK enabled. 
 
+Kubernetes clusters are available and created on demand for the users, attached to the userplance of the 5G System
+
 Patras 5G provides 5G standard-conformant components and Core Network infrastructure and Integration of 5G Core and 5G RAN with our Opensource based NFV platform.  We support various flavors and installations of the 5G System, that are both NSA and SA depending on the scenarios that the customer wants to support.
 * 	5G Core and EPC solutions that are available and can be orchestrated in the facility:  FhG Open5GCore, AMARISOFT EPC, SRS EPC, NextEPC
 * 	[Radio equipment](radio-equipment) 5G and 4G RAN[Available gNodeBs](radio-equipment/g-node-bs): AMARISOFT 5G RAN (Classic boxes), 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz, 4G NB-IoT, LTE-M (FhG NB-IOT core) based on AMARISOFT, Various SDR equipment (ETTUS)
