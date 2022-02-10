@@ -3,11 +3,13 @@
 
 # Telemetry and Monitoring support
 
-The Patras5G facility in University of Patras, provides remote access to it’s monitoring infrastructure via a VPN to all involved partners. Currently the infrastructure provides monitoring data and metrics related to the Cloud infrastructure itself and also for all the VNF health, as seen in the figure below:
+The Patras5G facility in University of Patras, provides remote access to it’s monitoring infrastructure via a VPN to all involved partners. Currently the infrastructure provides monitoring data and metrics related to the Cloud infrastructure,  for all the VNFs and all the RAN nodes via NetData while all data are gathered in a Prometheus server.
+A Prometheus as a service within a slice is also available
+
 
 ![Img 1](/uploads/telemetry-monitoring/img-1.png "Img 1")
 
-This architecture will be expanded to collect monitoring data directly from the VNF’s and PNF’s. Another instance of PROMETHEUS will be provisioned inside the cloud, that will establish a new channel of communication between the VNF’s which will be used only for monitoring and management purposes. Over this network PROMETHEUS will collect data from the VNF’s that will contain and run an instance of NETDATA software. NETDATA will provide a REST API that will be accessible from the management network [1]. NETDATA will also collect data from RAN via a custom plugin that UoP will develop. This information will be used to evaluate KPI’s and will provide information about:
+This architecture  collects monitoring data directly from the VNF’s and PNF’s. Another instance of PROMETHEUS will be provisioned inside the cloud, that will establish a new channel of communication between the VNF’s which will be used only for monitoring and management purposes. Over this network PROMETHEUS will collect data from the VNF’s that will contain and run an instance of NETDATA software. NETDATA will provide a REST API that will be accessible from the management network [1]. NETDATA will also collect data from RAN via a custom plugin that UoP will develop. This information will be used to evaluate KPI’s and will provide information about:
 •	Node health
 •	Number of UE’s connected
 •	UE signal strength
