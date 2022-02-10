@@ -27,7 +27,9 @@ So far we will se it to make remote measurements of our 5G system. It can be tel
 <br/>
 
 
-<img src="/uploads/radio-equipment/20220119-171610.jpg" width="640"><img src="/uploads/radio-equipment/20220119-171723.jpg" width="640"><img src="/uploads/radio-equipment/20210701-113316.png" width="640">
+<img src="/uploads/radio-equipment/20220119-171610.jpg" width="640"><img src="/uploads/radio-equipment/20220119-171723.jpg" width="640">
+<br/>
+<img src="/uploads/radio-equipment/20210701-113316.png" width="640">
 
 
 
