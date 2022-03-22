@@ -38,7 +38,8 @@ Check out our social media pages: https://www.linkedin.com/company/74512910/admi
 
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
 
-<img src="/uploads/images/architecturev-1-1.png" width="1024">
+<img src="/uploads/images/architecture-20220322.png" >
+
 
 **Summary of capabilities**
 With our OSS, NFV and experimentation enabled services, like Openslice and Open Source MANO, we enable E2E automated deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network. 
