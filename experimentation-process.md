@@ -186,6 +186,3 @@ The monitoring data is available to the vertical customer for any assessment.
 ### OFFER THE SERVICE SPECIFICATION TO THE VERTICAL COMMUNITY
 
 After the testing and validation period the defined Service Specification can be publicly offered to the vertical customer community for repeatable deployments.
-
-
-https://upatras-gr.zoom.us/j/3662801614?pwd=bzl2TXdBT0FUSmlkSXhTYWN2amxEZz09 
