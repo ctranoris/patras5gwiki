@@ -3,8 +3,7 @@
 
 # Architecture And Components of Patras5G
 
-
-![greeksitearch](/uploads/images/greece-site.png "greeksitearch")
+<img src="/uploads/images/architecture-20220322.png" width="1024">
 
 
 ### Cloud/MANO services
