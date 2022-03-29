@@ -19,7 +19,7 @@ So far we will se it to make remote measurements of our 5G system. It can be tel
 ## 4 small robotic platforms
 
 
-4 small remotely teleoperated robotic platforms are available. They are 3D printed based on Intel's Openbot platform they can host a 5G mobile phone which host software to remotely operate them over the 5G network.
+4 small remotely teleoperated robotic platforms are available. They are 3D printed based on Intel's Openbot platform they can host a 5G mobile phone which host <a href="https://patras5g.eu/nfvportal/openslicehome/bot.apk">software</a>  to remotely operate them over the 5G network.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=0&mute=1&start=53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
