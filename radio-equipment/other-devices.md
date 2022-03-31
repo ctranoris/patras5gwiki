@@ -50,3 +50,6 @@ So far we will se it to make remote measurements of our 5G system. It can be tel
 - Temperature/Humidity Sensors
 
 ![Sodaq Sara](/uploads/images-radio-equipment/sodaq-sara.jpg "Sodaq Sara")
+
+
+upatras-gr.zoom.us/j/3662801614?pwd=bzl2TXdBT0FUSmlkSXhTYWN2amxEZz09
