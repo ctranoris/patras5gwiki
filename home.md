@@ -99,6 +99,7 @@ Openslice thus support both APIs for programmable access to the infrastructure a
 Read more:
 [Experimentation process](experimentation-process)
 [Telemetry/Monitoring](telemetry-monitoring)
+[Energy Measurement](telemetry-monitoring/energy-measurement)
 
 ## KPIs and Use Cases 
 
