@@ -7,4 +7,4 @@
 
 They are gathered in the prometheus system, so these measurements can be synchronized with an experiment
 
-![Energy Meter Grafana](/uploads/telemetry-monitoring/energy-meter-grafana.png "Energy Meter Grafana")
+<img src="/uploads/telemetry-monitoring/energy-meter-grafana.png" width="1024">
