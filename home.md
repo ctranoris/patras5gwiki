@@ -44,7 +44,9 @@ Check out our social media pages: https://www.linkedin.com/company/74512910/admi
 **Summary of capabilities**
 With our OSS, NFV and experimentation enabled services, like Openslice and Open Source MANO, we enable E2E automated deployment of multiple customized-slices over the whole network – access, transport and core. This further includes the slicing of the IoT devices at the edge of the network. 
 
-Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 450 CPUs and 1,5 TB of RAM and 50 TB of storage. All servers are interconnected on TOR 10GbE/40GbE NVIDIA Cumulus switches with dual 10GbE NICs DPDK enabled. 
+Patras 5G facility is equipped with a cloud platform, able to host core network components, as well as NFV and MEC deployments. The cloud platform offers a total computing power of 1082 CPUs and 4,5 TB of RAM and 100 TB of storage. All servers are interconnected on 
+100GbE/400GbE Edgecore P4 Switches
+and  10GbE/40GbE NVIDIA Cumulus switches with dual 10GbE NICs DPDK enabled. 
 
 Kubernetes clusters are available and created on demand for the users, attached to the userplance of the 5G System
 
