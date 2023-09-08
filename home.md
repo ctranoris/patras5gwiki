@@ -25,6 +25,9 @@ Numerous partners have deployed their technologies in the Patras 5G /Greece faci
 
  <iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?autoplay=1&mute=1">
 </iframe> 
+ <iframe width="640" height="360" src="https://www.youtube.com/embed/U3Mv7NCn40w?autoplay=1&mute=1">
+</iframe> 
+
 
 5G end-to-end experimentation: From Service Order to Network Monitoring Service https://www.youtube.com/watch?v=X662lml0p8w
 5G-VINNI Patras Facility [video](https://www.youtube.com/watch?v=rASfEuHzhW0) for a quick presentation
