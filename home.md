@@ -38,7 +38,7 @@ Check out our social media pages: https://www.linkedin.com/company/74512910/admi
 
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
 
-<img src="/uploads/images/architecture-20220322.png" width="1024">
+<img src="/uploads/images/architecture-2023-09-08.jpg" width="1024">
 
 
 **Summary of capabilities**
