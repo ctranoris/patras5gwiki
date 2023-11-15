@@ -9,6 +9,13 @@
 
 **The Patras 5G facility is an "isolated" Non-public Network for 5G and IoT applications.**
 
+* Patras5G facility adopts the Network Slice as a Service (NSaaS) delivery model, whereby the facility provisions tailored network slices to verticals upon request. Each vertical uses the slice that has been provided to meet their requirements for trialing activities, setting up different use cases and assessing their KPIs under different network conditions.
+* Users and applications access is enabled by the open-source Operations Support System (OSS) Openslice. Vertical applications can manage and on-board their artefacts through our user-friendly portal or programmatically access the available services. The Service Catalogue is easily accessible through our site portal (https://patras5g.eu).
+* An APIs collection, which adheres to the TMForum OpenAPIs standard, provides comprehensive management of various artefacts. The APIs encompass Service Catalog, Service Order and Service Inventory, Partner Management and Users, Service Orchestration, VNFs/NSDs catalogue, and NFVO endpoints via OSM NBI, Service and NFV Deployment requests.
+* The testbed provides telemetry and monitoring through Prometheus and NetData, which offers comprehensive metrics related to cloud infrastructure, VNFs, and RAN nodes as well as measurement sensors for energy consumption of compute nodes, switches, 5G gNBs, and CPEs, with all data securely gathered in a Prometheus server. Prometheus alongside Grafana is used for monitoring purposes. Elastic search and Kibana are used to collect and visualize data
+
+In a nutshell:
+
 * We offer for testing and experimentation a private 5G Network, working on licensed and unlicensed spectrum, with our own SIM cards.
 * We provide 5G standard-conformant components and Core Network infrastructure 
 * mmWave backhaul is installed to various locations in the city of Patras to link the access to the core network, and Fixed Wireless Access to provide broadband services to the facility
