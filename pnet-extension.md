@@ -14,5 +14,5 @@ Core Network – Hosted in NOVA lab
 OSS - hosted at P-NET premise
 	a. Small Integrated Ericsson Manager (ENM) providing unified network management functionality for RAN & Core 
 	
-
+more about p-net here: https://p-net.gr/
 
