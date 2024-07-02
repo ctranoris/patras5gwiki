@@ -27,6 +27,14 @@ In a nutshell:
 Most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. 
 Numerous partners have deployed their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
 
+## Access to the facility:
+
+**Physical access**
+Users are offered with the required technical and scientific assistance to learn and use the infrastructure. Such a type of access is more applicable to users that cannot  easily access remotely for fine-tuning, and facilitate experiments requiring physical presence on site, such as for instance Bring-Your-Own-Equipment (BYOE). In such cases, users can install their prototype equipment at the Patras5G premises and combine it in their use cases with the equipment offered Patras5G. (Radios, 5GCore cloud, clusters, etc)
+
+**Remote access** 
+Users make service orders through our portal (https://patras5g.eu) for requesting a service. Then we offer various tools to access the requested resources (virtual machines, containers, etc)
+
 ## Demo videos
 
 
