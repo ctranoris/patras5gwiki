@@ -99,7 +99,7 @@ Various artifacts can be managed through our APIs colleaction (see swagger) http
 ### Openslice
 
 ![Openslice Logo Small](/uploads/images/openslice-logo-small.png "Openslice Logo Small")
-The Patras Facility site portal is based on Openslice (http://openslice.io) a prototype open source, operations support system. Up is the main contributor of OpenSlice. It supports VNF/NSD onboarding to OpenSourceMANO (OSM) and NSD deployment management. It also supports TMFORUM OpenAPIs regarding Service Catalog Management, Ordering, Resource, etc. Openslice offers the following main functionalities:
+The Patras Facility site portal is based on Openslice (https://osl.etsi.org) a prototype open source, operations support system. Up is the main contributor of OpenSlice. It supports VNF/NSD onboarding to OpenSourceMANO (OSM) and NSD deployment management. It also supports TMFORUM OpenAPIs regarding Service Catalog Management, Ordering, Resource, etc. Openslice offers the following main functionalities:
 
 * 	Service Catalog Management: A CSP will have the ability to manage the Service Catalog Items, their attributes , organize in categories and decide what to make available to Customers
 * 	Services Specifications: A CSP will be able to manage Service Specifications
