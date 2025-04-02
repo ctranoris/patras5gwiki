@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+![Architecture 2025 04 02](/uploads/images/architecture-2025-04-02.png "Architecture 2025 04 02")<!-- TITLE: Home -->
 <!-- SUBTITLE: Welcome to Patras 5G Wiki -->
 
 
@@ -56,7 +56,7 @@ Check out our social media pages: https://www.linkedin.com/company/74512910/admi
 
 ## Patras 5G facility infrastructure: Onboarding and access for Vertical Applications
 
-<img src="/uploads/images/architecture-2023-09-08.jpg" width="1024">
+<img src="/uploads/images/architecture-2025-04-02.png" width="1024">
 
 
 **Summary of capabilities**
