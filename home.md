@@ -25,7 +25,7 @@ In a nutshell:
 * We have an Academic License from the Greek government on the licensed spectrum.
 
 Most of the installed components are offered as Open Source but there are also dedicated components and services to support 5G and IoT scenarios. 
-Numerous partners have deployed their technologies in the Patras 5G /Greece facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
+Numerous partners have deployed their technologies in the Patras 5G facility, thus creating a unique 5G playground for KPI validation and support on future verticals.
 
 ## Access to the facility:
 
@@ -67,10 +67,11 @@ Patras 5G facility is equipped with a cloud platform, able to host core network 
 All servers are interconnected on 100GbE/400GbE Edgecore P4 Switches
 and  10GbE/40GbE NVIDIA Cumulus switches with dual 10GbE NICs DPDK enabled. 
 
-Kubernetes clusters are available and created on demand for the users, attached to the userplance of the 5G System
+Kubernetes clusters are available on demand managed via GitOps: LF Sylva, OpenSourceMANO or Terraform, attached to the dataplane of the 5G System provided by Patras5G/PNET. Experimenters can order 5G connectivity as one of the network services, reserve resources, and configure the network based on user profiles for indoor and outdoor sites. Experimenters receive pre-provisioned sim cards for their external applications/devices to connect directly to the 5G network and interact with network applications deployed in dedicated k8s clusters. The cloud-hosted 5G core, deployed in a k8s cluster, relies on the open-source implementation of Open5GS/Free5GC and OpenAirInterface, enabling dynamic deployments.
+
 
 Patras 5G provides 5G standard-conformant components and Core Network infrastructure and Integration of 5G Core and 5G RAN with our Opensource based NFV platform.  We support various flavors and installations of the 5G System, that are both NSA and SA depending on the scenarios that the customer wants to support.
-* 	5G Core and EPC solutions that are available and can be orchestrated in the facility:  FhG Open5GCore, Open5GS in Kubernetes, free5GC in Kubernetes, AMARISOFT EPC, SRS EPC
+* 	5G Core and EPC solutions that are available and can be orchestrated in the facility:  FhG Open5GCore, Open5GS in Kubernetes, free5GC in Kubernetes, OpenAirInterface in Kubernetes, AMARISOFT EPC, SRS EPC
 * 	[Radio equipment](radio-equipment) 5G and 4G RAN[Available gNodeBs](radio-equipment/g-node-bs): AMARISOFT 5G RAN (Classic boxes), 5G RAN open source radio (Lime, SRS)-700-800MHz, 3.5.-3.8GHz, 4G NB-IoT, LTE-M (FhG NB-IOT core) based on AMARISOFT, Various SDR equipment (ETTUS)
 * 	 [Available UEs](radio-equipment/u-es) based on Limemicro’s SDR and SRS software, as well as commercial UEs: Mobile phones LG and Samsung, Huawei CPE, Various SDR equipment, a Drone for URLLC testing
 * 	Monitoring is available through: Graphana, Prometheus,Netdata while OSM also configure with VNF telemetry support
