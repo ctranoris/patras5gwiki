@@ -9,7 +9,7 @@ Besides the standard UEs some other equipment is also available for specific tas
 ## Quadruped robot
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/YwIcPGTzdGA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YwIcPGTzdGA?si=5vf13JPBDoSOxR_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In our facility experiments can be performed with our Quadruped robot! . It can carry our 5G modems or mobile phones or CPEs or whatever to various places and strange terrains! We use it in use cases involving for example areas difficult to reach, remote monitoring and others.
 So far we will se it to make remote measurements of our 5G system. It can be tele-operated and stream videos from its cameras! 
