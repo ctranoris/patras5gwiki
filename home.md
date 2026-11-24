@@ -39,10 +39,9 @@ Users make service orders through our portal (https://patras5g.eu) for requestin
 
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?si=rViOQAAGj4jc6SRq?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DkBKhYaHqPg?si=rViOQAAGj4jc6SRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- <iframe width="640" height="360" src="https://www.youtube.com/embed/U3Mv7NCn40w?autoplay=1&mute=1">
-</iframe> 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/U3Mv7NCn40w?si=hS_n09AJ6zbGn0w-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 5G end-to-end experimentation: From Service Order to Network Monitoring Service https://www.youtube.com/watch?v=X662lml0p8w
